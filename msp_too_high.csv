@@ -1,0 +1,1878 @@
+APMC,Commodity,year,Average Difference Raw,Average Difference Deseasonalised,district_name,state_name
+gevrai,bajri,2014,-4.25,-405.25,beed,maharashtra
+gevrai,bajri,2015,-15.909090909090992,-13.545454545454504,beed,maharashtra
+shirur,maize,2014,-122.25,-493.0,pune,maharashtra
+shirur,maize,2015,-43.58333333333326,-51.75,pune,maharashtra
+latur,sunflower,2014,-1177.3333333333335,-1177.3333333333335,latur,maharashtra
+latur,sunflower,2015,-492.0,-492.0,latur,maharashtra
+latur,sunflower,2016,-542.5,-542.5,latur,maharashtra
+purna,safflower,2015,-932.5,-932.5,parbhani,maharashtra
+daryapur,sunflower,2014,-1200.0,-1200.0,amaravathi,maharashtra
+daryapur,sunflower,2015,-932.0,-932.0,amaravathi,maharashtra
+lakhandur,pigeon pea (tur),2015,1675.0,-1375.0,bhandara,maharashtra
+sindkhed raja,wheat(husked),2015,15.0,-512.0,buldhana,maharashtra
+raver-sawada,maize,2016,-156.0,-156.0,jalgaon,maharashtra
+aheri,sorgum(jawar),2014,-412.5,-636.25,gadchiroli,maharashtra
+aheri,sorgum(jawar),2015,-402.8571428571429,-379.1428571428571,gadchiroli,maharashtra
+aheri,sorgum(jawar),2016,-216.75,-580.75,gadchiroli,maharashtra
+nandurbar,wheat(husked),2014,-41.75,-569.5,nandurbar,maharashtra
+nandurbar,wheat(husked),2015,-116.4545454545455,-139.81818181818176,nandurbar,maharashtra
+chikhali,pigeon pea (tur),2014,-409.6666666666665,-1641.3333333333335,buldhana,maharashtra
+sonpeth,safflower,2014,-666.6666666666665,-666.6666666666665,parbhani,maharashtra
+lasalgaon,rice(paddy-hus),2014,192.0,-604.0,nasik,maharashtra
+ghoti,paddy-unhusked,2014,790.0,-39.5,nasik,maharashtra
+shrirampur-belapur,wheat(husked),2015,-172.5,-361.25,ahmadnagar,maharashtra
+jalkot,wheat(husked),2014,-217.0,-217.0,latur,maharashtra
+kundalwadi,sorgum(jawar),2015,-20.0,-20.0,nanded,maharashtra
+jamkhed,wheat(husked),2014,460.0,-221.25,ahmadnagar,maharashtra
+sillod,sorgum(jawar),2014,-150.0,-850.0,aurangabad,maharashtra
+sillod,sorgum(jawar),2015,-451.5999999999999,-506.20000000000005,aurangabad,maharashtra
+sillod,sorgum(jawar),2016,-396.7142857142858,-446.0,aurangabad,maharashtra
+jalna-badnapur,cotton,2014,292.0,-398.0,jalna,maharashtra
+jalna-badnapur,cotton,2016,460.66666666666697,-63.666666666666515,jalna,maharashtra
+roha,paddy-unhusked,2014,-60.0,-504.5,raigad,maharashtra
+roha,paddy-unhusked,2015,-70.08333333333326,-93.66666666666674,raigad,maharashtra
+roha,paddy-unhusked,2016,-43.36363636363626,-262.27272727272725,raigad,maharashtra
+shrirampur-belapur,maize,2015,-197.20000000000005,-197.20000000000005,ahmadnagar,maharashtra
+shrirampur-belapur,maize,2016,-161.75,-161.75,ahmadnagar,maharashtra
+sakri,maize,2014,-284.33333333333326,-600.6666666666666,dhule,maharashtra
+sakri,maize,2015,-140.16666666666674,-174.33333333333326,dhule,maharashtra
+sakri,maize,2016,-169.8888888888889,-209.44444444444434,dhule,maharashtra
+pandharkawada,wheat(husked),2014,-287.0,-287.0,yewatmal,maharashtra
+pandharkawada,wheat(husked),2015,-225.0,-225.0,yewatmal,maharashtra
+malegaon (washim),sorgum(jawar),2014,-50.0,-800.0,wasim,maharashtra
+malegaon (washim),sorgum(jawar),2015,-140.0,-127.5,wasim,maharashtra
+malegaon (washim),sorgum(jawar),2016,-200.0,-212.5,wasim,maharashtra
+wardha,pigeon pea (tur),2014,25.0,-632.25,wardha,maharashtra
+kada (ashti),bajri,2015,-154.0,-154.0,beed,maharashtra
+dharmabad,wheat(husked),2014,-30.0,-30.0,nanded,maharashtra
+nagpur,sesamum,2016,-2700.0,-2700.0,nagpur,maharashtra
+solapur,pigeon pea (tur),2014,292.0,-1097.25,solapur,maharashtra
+yawal,sorgum(jawar),2014,-221.0,-221.0,jalgaon,maharashtra
+yawal,sorgum(jawar),2015,-382.5,-382.5,jalgaon,maharashtra
+yawal,sorgum(jawar),2016,-442.9000000000001,-442.9000000000001,jalgaon,maharashtra
+hadgaon,sorgum(jawar),2015,-406.66666666666674,-406.66666666666674,nanded,maharashtra
+ausa,wheat(husked),2014,-0.5,-434.5,latur,maharashtra
+manora,wheat(husked),2014,-59.0,-321.75,wasim,maharashtra
+manora,wheat(husked),2015,-44.57142857142867,-55.85714285714289,wasim,maharashtra
+telhara,pigeon pea (tur),2014,-176.0,-1473.0,akola,maharashtra
+indapur,rice(paddy-hus),2015,-267.42857142857133,-267.42857142857133,pune,maharashtra
+indapur,rice(paddy-hus),2016,-213.0,-213.0,pune,maharashtra
+babhulgaon,pigeon pea (tur),2014,326.0,-1901.0,yewatmal,maharashtra
+ghansawangi,wheat(husked),2014,83.33333333333326,-50.33333333333326,jalna,maharashtra
+sangrampur-varvatbakal,sorgum(jawar),2015,-548.3333333333333,-548.3333333333333,buldhana,maharashtra
+sangrampur-varvatbakal,sorgum(jawar),2016,-454.4545454545455,-454.4545454545455,buldhana,maharashtra
+telhara,cotton,2014,73.66666666666652,-673.0,akola,maharashtra
+dhamangaon-rly,pigeon pea (tur),2014,133.25,-647.5,amaravathi,maharashtra
+phaltan,maize,2014,-128.5,-566.25,satara,maharashtra
+phaltan,maize,2015,-27.09090909090901,-66.5454545454545,satara,maharashtra
+phaltan,maize,2016,86.0,-107.40000000000009,satara,maharashtra
+sangamner,bajri,2014,82.25,-374.75,ahmadnagar,maharashtra
+sangamner,bajri,2016,191.909090909091,-44.27272727272725,ahmadnagar,maharashtra
+umarga,sorgum(jawar),2014,-176.33333333333326,-725.6666666666666,osmanabad,maharashtra
+umarga,sorgum(jawar),2015,-87.27272727272725,-157.27272727272725,osmanabad,maharashtra
+umarga,sorgum(jawar),2016,-73.90909090909099,-237.72727272727275,osmanabad,maharashtra
+parbhani,cotton,2014,254.66666666666652,-755.3333333333335,parbhani,maharashtra
+lasalgaon,sorgum(jawar),2015,4.4166666666667425,-17.75,nasik,maharashtra
+lasalgaon,sorgum(jawar),2016,-337.5,-403.5999999999999,nasik,maharashtra
+mangrulpeer,wheat(husked),2014,-179.75,-333.25,wasim,maharashtra
+mangrulpeer,wheat(husked),2015,-298.63636363636374,-303.909090909091,wasim,maharashtra
+murum,wheat(husked),2014,54.0,-121.0,osmanabad,maharashtra
+dondaicha,wheat(husked),2014,-26.75,-392.0,dhule,maharashtra
+dondaicha,wheat(husked),2015,-80.70000000000005,-78.70000000000005,dhule,maharashtra
+vaijapur,pigeon pea (tur),2014,-1018.75,-1820.75,aurangabad,maharashtra
+nandurbar,safflower,2015,-786.5,-786.5,nandurbar,maharashtra
+sinner,sorgum(jawar),2014,17.5,-180.0,nasik,maharashtra
+sinner,sorgum(jawar),2015,-320.75,-318.25,nasik,maharashtra
+sinner,sorgum(jawar),2016,-267.29999999999995,-260.29999999999995,nasik,maharashtra
+jalna,cotton,2014,-2.0,-2.0,jalna,maharashtra
+kurdwadi,sorgum(jawar),2014,-334.5,-731.75,solapur,maharashtra
+kurdwadi,sorgum(jawar),2015,-299.36363636363626,-328.18181818181824,solapur,maharashtra
+kurdwadi,sorgum(jawar),2016,-13.272727272727252,-137.4545454545455,solapur,maharashtra
+shirur,safflower,2015,-800.0,-800.0,pune,maharashtra
+sonpeth,wheat(husked),2014,97.75,-204.0,parbhani,maharashtra
+nira-saswad,wheat(husked),2015,64.0,-199.66666666666674,pune,maharashtra
+chalisgaon,sunflower,2014,-983.0,-2367.0,jalgaon,maharashtra
+chalisgaon,sunflower,2015,-1006.4000000000001,-987.8000000000002,jalgaon,maharashtra
+chalisgaon,sunflower,2016,-1020.0,-1146.0,jalgaon,maharashtra
+yeotmal,cotton,2014,56.333333333333485,-1206.3333333333335,yewatmal,maharashtra
+yeotmal,cotton,2016,547.0,-227.0,yewatmal,maharashtra
+latur,safflower,2014,-629.3333333333335,-1416.3333333333333,latur,maharashtra
+latur,safflower,2015,-739.5,-760.3333333333335,latur,maharashtra
+chamorshi,paddy-unhusked,2014,395.5,-356.0,gadchiroli,maharashtra
+pathari,sorgum(jawar),2016,-37.625,-51.5,parbhani,maharashtra
+jalgaon,pigeon pea (tur),2014,-650.0,-1200.0,jalgaon,maharashtra
+murtizapur,sunflower,2014,-1101.0,-1101.0,akola,maharashtra
+murtizapur,sunflower,2015,-899.0,-899.0,akola,maharashtra
+dhule,pigeon pea (tur),2014,-679.3333333333335,-1951.3333333333335,dhule,maharashtra
+pusad,sorgum(jawar),2014,-253.66666666666674,-745.0,yewatmal,maharashtra
+pusad,sorgum(jawar),2015,-380.4000000000001,-394.0999999999999,yewatmal,maharashtra
+pusad,sorgum(jawar),2016,-253.5454545454545,-360.909090909091,yewatmal,maharashtra
+bhokardan-pimpalgaon renu,bajri,2015,-3.6666666666667425,-3.6666666666667425,jalna,maharashtra
+manmad,maize,2014,-227.0,-382.25,nasik,maharashtra
+manmad,maize,2015,-48.75,-54.58333333333326,nasik,maharashtra
+murum,safflower,2014,-500.0,-500.0,osmanabad,maharashtra
+jalna,wheat(husked),2014,4.6666666666667425,-506.0,jalna,maharashtra
+mahur,cotton,2014,-50.666666666666515,-50.666666666666515,nanded,maharashtra
+mangrulpeer,safflower,2015,-1500.0,-1500.0,wasim,maharashtra
+ashti-karanja,wheat(husked),2015,-90.25,-360.25,wardha,maharashtra
+rahuri-songaon,bajri,2016,-31.333333333333258,-31.333333333333258,ahmadnagar,maharashtra
+navapur,paddy-unhusked,2014,-160.0,-760.0,nandurbar,maharashtra
+navapur,paddy-unhusked,2015,-65.5,-147.0,nandurbar,maharashtra
+navapur,paddy-unhusked,2016,-214.33333333333326,-198.8888888888889,nandurbar,maharashtra
+jalgaon,sorgum(jawar),2014,-183.75,-676.0,jalgaon,maharashtra
+jalgaon,sorgum(jawar),2015,-302.08333333333326,-283.75,jalgaon,maharashtra
+jalgaon,sorgum(jawar),2016,19.09999999999991,-300.5,jalgaon,maharashtra
+indapur (nimgaon ketki),wheat(husked),2015,-124.40000000000009,-124.40000000000009,pune,maharashtra
+gevrai,mustard,2015,108.125,-282.875,beed,maharashtra
+majalgaon,pigeon pea (tur),2014,-359.75,-1647.75,beed,maharashtra
+rahuri,sorgum(jawar),2014,-42.66666666666674,-283.33333333333326,ahmadnagar,maharashtra
+indapur,maize,2014,-212.0,-505.5,pune,maharashtra
+indapur,maize,2016,68.20000000000005,-5.599999999999909,pune,maharashtra
+umarga,paddy-unhusked,2014,-506.66666666666663,-506.66666666666663,osmanabad,maharashtra
+umarga,paddy-unhusked,2015,-306.66666666666674,-306.66666666666674,osmanabad,maharashtra
+umari,sorgum(jawar),2015,-107.0,-107.0,nanded,maharashtra
+umari,sorgum(jawar),2016,-356.33333333333326,-356.33333333333326,nanded,maharashtra
+manwat,sorgum(jawar),2015,-303.20000000000005,-303.20000000000005,parbhani,maharashtra
+khamgaon,wheat(husked),2014,-133.5,-544.0,buldhana,maharashtra
+khamgaon,wheat(husked),2015,-105.40000000000009,-120.59999999999991,buldhana,maharashtra
+shegaon,maize,2014,-320.0,-559.0,buldhana,maharashtra
+shegaon,maize,2015,-275.58333333333326,-283.66666666666674,buldhana,maharashtra
+shegaon,maize,2016,-156.5,-149.375,buldhana,maharashtra
+manora,pigeon pea (tur),2014,226.75,-1304.0,wasim,maharashtra
+balapur,sunflower,2016,-475.0,-475.0,akola,maharashtra
+yeola,pigeon pea (tur),2014,-249.0,-249.0,nasik,maharashtra
+bhivandi,wheat(husked),2014,-24.25,-473.25,thane,maharashtra
+kille dharur,cotton,2014,217.0,-1569.0,beed,maharashtra
+kille dharur,cotton,2016,483.42857142857156,-43.57142857142844,beed,maharashtra
+ahmednagar,maize,2014,144.0,-671.0,ahmadnagar,maharashtra
+ahmednagar,maize,2015,53.40000000000009,-68.29999999999995,ahmadnagar,maharashtra
+mehkar,pigeon pea (tur),2014,-377.0,-1892.5,buldhana,maharashtra
+sangrampur,pigeon pea (tur),2014,-239.0,-1099.0,buldhana,maharashtra
+sangrampur,pigeon pea (tur),2015,-226.60000000000036,-173.89999999999964,buldhana,maharashtra
+akkalkuwa,maize,2015,-97.0,-97.0,nandurbar,maharashtra
+akkalkuwa,maize,2016,-2.6666666666667425,-2.6666666666667425,nandurbar,maharashtra
+kurdwadi,sunflower,2015,-608.0,-608.0,solapur,maharashtra
+kurdwadi,sunflower,2016,-935.5,-935.5,solapur,maharashtra
+akhadabalapur,pigeon pea (tur),2014,-329.25,-1487.25,hingoli,maharashtra
+barshi,wheat(husked),2014,4.75,-492.0,solapur,maharashtra
+barshi,wheat(husked),2015,-40.58333333333326,-48.75,solapur,maharashtra
+chopda,sunflower,2014,-1212.3333333333335,-2052.333333333333,jalgaon,maharashtra
+chopda,sunflower,2015,-1184.6666666666665,-1190.2222222222222,jalgaon,maharashtra
+chopda,sunflower,2016,-988.0,-1526.3333333333335,jalgaon,maharashtra
+jintur,sorgum(jawar),2014,-301.5,-653.5,parbhani,maharashtra
+jintur,sorgum(jawar),2015,-357.66666666666674,-361.66666666666674,parbhani,maharashtra
+jintur,sorgum(jawar),2016,-146.0,-312.5454545454545,parbhani,maharashtra
+jalkot,pigeon pea (tur),2014,-143.0,-2247.0,latur,maharashtra
+vasai,wheat(husked),2014,17.0,-693.0,thane,maharashtra
+vasai,wheat(husked),2015,-6.0,-202.0,thane,maharashtra
+akkolkot,wheat(unhusked),2014,1251.0,-97.0,solapur,maharashtra
+dound,pigeon pea (tur),2015,2115.0,-1250.0,pune,maharashtra
+deulgaon raja,cotton,2014,168.66666666666652,-824.6666666666665,buldhana,maharashtra
+nandurbar,sunflower,2014,-783.3333333333335,-1686.3333333333335,nandurbar,maharashtra
+nandurbar,sunflower,2015,-495.909090909091,-587.2727272727275,nandurbar,maharashtra
+nandurbar,sunflower,2016,-421.55555555555566,-945.4444444444443,nandurbar,maharashtra
+shevgaon-bodhegaon,bajri,2014,-86.0,-531.3333333333334,ahmadnagar,maharashtra
+shevgaon-bodhegaon,bajri,2015,-71.66666666666674,-88.66666666666674,ahmadnagar,maharashtra
+akkalkuwa,sorgum(jawar),2015,-365.0,-365.0,nandurbar,maharashtra
+akkalkuwa,sorgum(jawar),2016,-336.66666666666674,-336.66666666666674,nandurbar,maharashtra
+shirpur,wheat(husked),2014,-9.0,-570.25,dhule,maharashtra
+shirpur,wheat(husked),2015,-135.27272727272725,-152.63636363636374,dhule,maharashtra
+jafrabad,wheat(husked),2014,-125.0,-733.0,jalna,maharashtra
+jafrabad,wheat(husked),2015,-219.58333333333326,-288.25,jalna,maharashtra
+kolhapur-laxmipuri,gr.nut kernels,2014,1854.333333333333,-39.0,kolhapur,maharashtra
+mantha,pigeon pea (tur),2014,-182.66666666666697,-1189.6666666666665,jalna,maharashtra
+mangaon(bhadav),rice(paddy-hus),2014,418.25,-100.5,raigad,maharashtra
+kolhapur-laxmipuri,bajri,2014,356.66666666666674,-203.66666666666674,kolhapur,maharashtra
+ahmedpur,pigeon pea (tur),2014,-520.0,-890.5,latur,maharashtra
+mukhed,sunflower,2015,-390.0,-390.0,nanded,maharashtra
+partur,wheat(husked),2014,-69.0,-657.5,jalna,maharashtra
+partur,wheat(husked),2015,-15.916666666666742,-114.08333333333326,jalna,maharashtra
+lonar,pigeon pea (tur),2014,-6.25,-1263.0,buldhana,maharashtra
+nandura,bajri,2014,-84.5,-642.5,buldhana,maharashtra
+nandura,bajri,2015,-189.0,-218.25,buldhana,maharashtra
+nandura,bajri,2016,58.72727272727275,-37.545454545454504,buldhana,maharashtra
+lonand,sorgum(jawar),2014,2.0,-479.25,satara,maharashtra
+lonand,sorgum(jawar),2015,-6.0833333333332575,-9.5,satara,maharashtra
+lonand,sorgum(jawar),2016,-13.5,-140.29999999999995,satara,maharashtra
+majalgaon,wheat(husked),2014,-166.75,-585.25,beed,maharashtra
+majalgaon,wheat(husked),2015,-95.66666666666674,-124.16666666666674,beed,maharashtra
+murtizapur,safflower,2015,-1044.5,-1044.5,akola,maharashtra
+jalna,bajri,2014,-172.75,-555.0,jalna,maharashtra
+jalna,bajri,2015,-129.66666666666674,-120.0,jalna,maharashtra
+jalna,bajri,2016,127.4545454545455,-102.18181818181824,jalna,maharashtra
+chandur bajar,pigeon pea (tur),2014,216.33333333333303,-1590.3333333333335,amaravathi,maharashtra
+mehkar,maize,2014,-381.0,-749.0,buldhana,maharashtra
+mehkar,maize,2015,-209.0,-290.7777777777778,buldhana,maharashtra
+mehkar,maize,2016,-1.8888888888889142,-206.44444444444434,buldhana,maharashtra
+raver,bajri,2014,108.33333333333326,-409.33333333333337,jalgaon,maharashtra
+raver,bajri,2016,75.625,-113.875,jalgaon,maharashtra
+jalna-badnapur,bajri,2014,200.0,-531.0,jalna,maharashtra
+jalna-badnapur,bajri,2015,-12.75,-93.375,jalna,maharashtra
+jalna-badnapur,bajri,2016,160.1111111111111,-32.77777777777783,jalna,maharashtra
+aarni,wheat(husked),2014,-194.5,-194.5,yewatmal,maharashtra
+aarni,wheat(husked),2015,-344.79999999999995,-344.79999999999995,yewatmal,maharashtra
+ahmednagar,pigeon pea (tur),2014,-210.0,-1771.0,ahmadnagar,maharashtra
+paranda,wheat(husked),2015,-116.66666666666674,-116.66666666666674,osmanabad,maharashtra
+mudkhed,wheat(husked),2015,-118.0,-822.0,nanded,maharashtra
+pathardi,wheat(husked),2014,107.25,-81.5,ahmadnagar,maharashtra
+nilanga,pigeon pea (tur),2014,-360.0,-518.0,latur,maharashtra
+satana,sorgum(jawar),2015,-10.0,-10.0,nasik,maharashtra
+devala,pigeon pea (tur),2014,-397.5,-1900.5,nasik,maharashtra
+tuljapur,wheat(husked),2014,-42.5,-42.5,osmanabad,maharashtra
+barshi-vairag,wheat(husked),2014,425.75,-42.25,solapur,maharashtra
+malegaon,sorgum(jawar),2014,170.5,-238.75,nasik,maharashtra
+malegaon,sorgum(jawar),2016,-13.0,-400.79999999999995,nasik,maharashtra
+kille dharur,wheat(husked),2014,9.333333333333258,-153.0,beed,maharashtra
+pulgaon,wheat(husked),2015,-231.79999999999995,-231.79999999999995,wardha,maharashtra
+akkolkot,pigeon pea (tur),2014,250.5,-1479.5,solapur,maharashtra
+shevgaon,bajri,2014,-125.0,-485.0,ahmadnagar,maharashtra
+shevgaon,bajri,2015,-28.416666666666742,-40.33333333333326,ahmadnagar,maharashtra
+shevgaon,bajri,2016,120.0,-126.79999999999995,ahmadnagar,maharashtra
+barshi-vairag,maize,2014,-153.25,-523.75,solapur,maharashtra
+barshi-vairag,maize,2015,-35.799999999999955,-60.299999999999955,solapur,maharashtra
+pune,coconut,2014,-1418.0,-1418.0,pune,maharashtra
+pune,coconut,2015,-1490.0,-1490.0,pune,maharashtra
+pune,coconut,2016,-1592.0,-1592.0,pune,maharashtra
+jafrabad,maize,2014,-265.0,-762.5,jalna,maharashtra
+jafrabad,maize,2015,-233.58333333333326,-297.0,jalna,maharashtra
+jafrabad,maize,2016,-150.0,-277.72727272727275,jalna,maharashtra
+amalner,wheat(husked),2014,-29.5,-654.0,jalgaon,maharashtra
+amalner,wheat(husked),2015,-113.5,-149.0,jalgaon,maharashtra
+gangakhed,sorgum(jawar),2014,-100.0,-100.0,parbhani,maharashtra
+chalisgaon,cotton,2014,-3700.0,-3700.0,jalgaon,maharashtra
+latur-murud,pigeon pea (tur),2015,3843.0,-291.0,latur,maharashtra
+basmat,wheat(husked),2014,50.0,-700.0,hingoli,maharashtra
+vasai,rice(paddy-hus),2014,200.0,-553.0,thane,maharashtra
+parola,sorgum(jawar),2015,-365.0,-365.0,jalgaon,maharashtra
+parola,sorgum(jawar),2016,-346.5,-346.5,jalgaon,maharashtra
+vaijapur,mustard,2014,400.0,-1318.0,aurangabad,maharashtra
+vaijapur,mustard,2015,311.0,-88.0,aurangabad,maharashtra
+nandurbar,maize,2014,-195.5,-358.0,nandurbar,maharashtra
+nandurbar,maize,2015,-90.83333333333326,-89.58333333333326,nandurbar,maharashtra
+nandurbar,maize,2016,11.454545454545496,-56.27272727272725,nandurbar,maharashtra
+murtizapur,sorgum(jawar),2014,-152.0,-152.0,akola,maharashtra
+shegaon,bajri,2014,-16.0,-328.0,buldhana,maharashtra
+rahata,wheat(husked),2014,16.5,-440.25,ahmadnagar,maharashtra
+rahata,wheat(husked),2015,-106.09090909090901,-103.36363636363626,ahmadnagar,maharashtra
+shirpur,maize,2014,-361.75,-489.0,dhule,maharashtra
+shirpur,maize,2015,-209.25,-221.75,dhule,maharashtra
+shirpur,maize,2016,-132.72727272727275,-182.18181818181824,dhule,maharashtra
+ambejogai,sorgum(jawar),2014,314.25,-306.75,beed,maharashtra
+ambejogai,sorgum(jawar),2016,102.81818181818176,-8.0,beed,maharashtra
+pusad,rice(paddy-hus),2015,-700.0,-700.0,yewatmal,maharashtra
+pusad,rice(paddy-hus),2016,-680.0,-680.0,yewatmal,maharashtra
+parola,maize,2015,-98.0,-98.0,jalgaon,maharashtra
+parola,maize,2016,-39.90000000000009,-39.90000000000009,jalgaon,maharashtra
+dhule,bajri,2014,-231.75,-420.5,dhule,maharashtra
+dhule,bajri,2015,-94.0,-109.70000000000005,dhule,maharashtra
+khamgaon,mustard,2015,-306.4000000000001,-306.4000000000001,buldhana,maharashtra
+udgir,pigeon pea (tur),2014,189.5,-1120.75,latur,maharashtra
+bori,pigeon pea (tur),2016,-37.5,-37.5,parbhani,maharashtra
+taloda,sorgum(jawar),2014,-33.33333333333326,-590.3333333333334,nandurbar,maharashtra
+taloda,sorgum(jawar),2015,-187.77777777777783,-171.44444444444434,nandurbar,maharashtra
+taloda,sorgum(jawar),2016,-137.20000000000005,-446.4000000000001,nandurbar,maharashtra
+ambad(vadi godri),sorgum(jawar),2014,-319.0,-849.5,jalna,maharashtra
+ambad(vadi godri),sorgum(jawar),2015,-358.8571428571429,-395.7142857142858,jalna,maharashtra
+ambad(vadi godri),sorgum(jawar),2016,-126.70000000000005,-240.29999999999995,jalna,maharashtra
+wardha,sorgum(jawar),2015,-220.33333333333326,-220.33333333333326,wardha,maharashtra
+wardha,sorgum(jawar),2016,-332.57142857142867,-332.57142857142867,wardha,maharashtra
+jawala-bajar,pigeon pea (tur),2014,0.0,-1585.0,hingoli,maharashtra
+pachora,wheat(husked),2015,-84.66666666666674,-84.66666666666674,jalgaon,maharashtra
+kej,sorgum(jawar),2014,196.0,-358.33333333333326,beed,maharashtra
+kej,sorgum(jawar),2016,65.4545454545455,-124.5454545454545,beed,maharashtra
+bhokardan-pimpalgaon renu,wheat(husked),2014,23.75,-501.75,jalna,maharashtra
+bhokardan-pimpalgaon renu,wheat(husked),2015,-75.5,-96.0,jalna,maharashtra
+umarkhed,cotton,2014,96.0,-528.0,yewatmal,maharashtra
+umarkhed,cotton,2015,190.0,-89.0,yewatmal,maharashtra
+udgir,sorgum(jawar),2014,-568.75,-876.5,latur,maharashtra
+udgir,sorgum(jawar),2015,-504.0999999999999,-509.4000000000001,latur,maharashtra
+udgir,sorgum(jawar),2016,-292.44444444444434,-510.33333333333326,latur,maharashtra
+shevgaon-bodhegaon,maize,2014,-350.0,-350.0,ahmadnagar,maharashtra
+shevgaon-bodhegaon,maize,2015,-171.33333333333326,-171.33333333333326,ahmadnagar,maharashtra
+paithan,bajri,2014,103.5,-594.5,aurangabad,maharashtra
+paithan,bajri,2015,-35.33333333333326,-84.88888888888891,aurangabad,maharashtra
+paithan,bajri,2016,60.44444444444434,-100.77777777777783,aurangabad,maharashtra
+jintur,safflower,2014,-703.5,-1291.5,parbhani,maharashtra
+jintur,safflower,2015,-950.0,-1025.0,parbhani,maharashtra
+kille dharur,pigeon pea (tur),2014,-916.0,-1810.0,beed,maharashtra
+mandhal,cotton,2015,201.5,-828.0,nagpur,maharashtra
+dound,sorgum(jawar),2014,326.5,-278.5,pune,maharashtra
+chopda,sorgum(jawar),2014,-185.25,-672.25,jalgaon,maharashtra
+chopda,sorgum(jawar),2015,-325.0,-319.75,jalgaon,maharashtra
+chopda,sorgum(jawar),2016,-152.20000000000005,-428.5999999999999,jalgaon,maharashtra
+gevrai,sorgum(jawar),2014,15.25,-593.75,beed,maharashtra
+gevrai,sorgum(jawar),2015,-151.5,-139.75,beed,maharashtra
+gevrai,sorgum(jawar),2016,19.0,-243.72727272727275,beed,maharashtra
+pachora,rice(paddy-hus),2015,-79.0,-79.0,jalgaon,maharashtra
+pachora,rice(paddy-hus),2016,-89.75,-89.75,jalgaon,maharashtra
+akhadabalapur,sorgum(jawar),2014,-50.0,-559.0,hingoli,maharashtra
+akhadabalapur,sorgum(jawar),2015,-147.875,-147.25,hingoli,maharashtra
+akhadabalapur,sorgum(jawar),2016,-123.88888888888891,-219.55555555555566,hingoli,maharashtra
+murtizapur,pigeon pea (tur),2014,248.0,-1106.0,akola,maharashtra
+sangali,maize,2014,40.0,-577.0,sangli,maharashtra
+sangali,maize,2015,107.27272727272725,-6.090909090909008,sangli,maharashtra
+kalamnuri,wheat(husked),2014,150.0,-50.0,hingoli,maharashtra
+basmat,cotton,2014,275.0,-725.0,hingoli,maharashtra
+partur,pigeon pea (tur),2014,10.0,-1629.0,jalna,maharashtra
+palghar(bevur),wheat(husked),2014,451.0,-366.0,thane,maharashtra
+mahagaon,sorgum(jawar),2015,-90.0,-90.0,yewatmal,maharashtra
+mahagaon,sorgum(jawar),2016,-104.79999999999995,-104.79999999999995,yewatmal,maharashtra
+malegaon,sunflower,2015,-15.0,-15.0,nasik,maharashtra
+navapur,cotton,2015,-80.0,-80.0,nandurbar,maharashtra
+gevrai,sunflower,2014,-750.0,-750.0,beed,maharashtra
+gevrai,sunflower,2015,-942.0,-942.0,beed,maharashtra
+gevrai,sunflower,2016,-399.0,-399.0,beed,maharashtra
+latur,maize,2014,-220.5,-630.5,latur,maharashtra
+latur,maize,2015,-71.66666666666674,-87.88888888888891,latur,maharashtra
+sangamner,wheat(husked),2014,21.25,-166.5,ahmadnagar,maharashtra
+varud-rajura bazar,pigeon pea (tur),2014,-306.75,-1596.0,amaravathi,maharashtra
+devala,maize,2014,-206.0,-379.75,nasik,maharashtra
+devala,maize,2015,-136.58333333333326,-137.16666666666674,nasik,maharashtra
+indapur-bhigwan,bajri,2014,135.0,-459.0,pune,maharashtra
+indapur-bhigwan,bajri,2016,125.27272727272725,-51.818181818181756,pune,maharashtra
+chimur,pigeon pea (tur),2015,2908.0,-645.0,chandrapur,maharashtra
+kannad,wheat(husked),2014,1.3333333333332575,-552.6666666666666,aurangabad,maharashtra
+kannad,wheat(husked),2015,-92.44444444444434,-110.88888888888891,aurangabad,maharashtra
+shirur,pigeon pea (tur),2014,-1266.6666666666665,-1931.6666666666665,pune,maharashtra
+shirur,pigeon pea (tur),2015,-227.66666666666697,-53.16666666666697,pune,maharashtra
+nilanga,wheat(husked),2014,-29.666666666666742,-268.66666666666674,latur,maharashtra
+nilanga,wheat(husked),2015,-60.799999999999955,-60.40000000000009,latur,maharashtra
+taloda,pigeon pea (tur),2014,-17.0,-17.0,nandurbar,maharashtra
+devala,sorgum(jawar),2014,787.0,-188.25,nasik,maharashtra
+devala,sorgum(jawar),2016,-124.81818181818176,-350.4545454545455,nasik,maharashtra
+jintur,cotton,2014,179.5,-499.5,parbhani,maharashtra
+karanja,sorgum(jawar),2014,-117.0,-625.25,wasim,maharashtra
+karanja,sorgum(jawar),2015,-294.75,-285.66666666666674,wasim,maharashtra
+karanja,sorgum(jawar),2016,-129.0999999999999,-419.20000000000005,wasim,maharashtra
+koregaon,sorgum(jawar),2014,96.0,-93.75,satara,maharashtra
+koregaon,sorgum(jawar),2016,-41.0,-34.75,satara,maharashtra
+dondaicha,maize,2014,-225.25,-395.0,dhule,maharashtra
+dondaicha,maize,2015,-208.91666666666674,-205.16666666666674,dhule,maharashtra
+dondaicha,maize,2016,-38.36363636363626,-101.90909090909099,dhule,maharashtra
+hinganghat,wheat(husked),2015,-95.0,-95.0,wardha,maharashtra
+khamgaon,bajri,2014,-89.0,-604.6666666666666,buldhana,maharashtra
+khamgaon,bajri,2015,-126.70000000000005,-165.20000000000005,buldhana,maharashtra
+khamgaon,bajri,2016,106.18181818181824,-71.5454545454545,buldhana,maharashtra
+nandura,maize,2014,-283.5,-566.5,buldhana,maharashtra
+nandura,maize,2015,-229.41666666666674,-238.83333333333326,buldhana,maharashtra
+nandura,maize,2016,-119.09090909090901,-246.090909090909,buldhana,maharashtra
+kada (ashti),maize,2015,-169.66666666666674,-169.66666666666674,beed,maharashtra
+kada,bajri,2014,3.25,-351.5,beed,maharashtra
+kada,bajri,2016,39.818181818181756,-86.90909090909099,beed,maharashtra
+lasalgaon-vinchur,rice(paddy-hus),2016,-62.0,-62.0,nasik,maharashtra
+kannad,bajri,2014,-1.25,-430.75,aurangabad,maharashtra
+kannad,bajri,2015,-77.125,-47.875,aurangabad,maharashtra
+kannad,bajri,2016,163.36363636363626,-31.36363636363626,aurangabad,maharashtra
+lonar,sorgum(jawar),2014,-414.5,-764.5,buldhana,maharashtra
+lonar,sorgum(jawar),2015,-426.29999999999995,-439.0,buldhana,maharashtra
+lonar,sorgum(jawar),2016,-235.9000000000001,-381.20000000000005,buldhana,maharashtra
+balapur,wheat(husked),2015,-163.08333333333326,-264.5,akola,maharashtra
+amalner,pigeon pea (tur),2014,-1000.0,-1460.0,jalgaon,maharashtra
+kalvan,wheat(husked),2014,-3.6666666666667425,-410.0,nasik,maharashtra
+kalvan,wheat(husked),2015,-36.55555555555566,-41.55555555555566,nasik,maharashtra
+devani,safflower,2015,-620.0,-620.0,latur,maharashtra
+shirur,bajri,2014,115.75,-369.25,pune,maharashtra
+shirur,bajri,2016,134.29999999999995,-117.5,pune,maharashtra
+pandharkawada,pigeon pea (tur),2014,15.5,-698.5,yewatmal,maharashtra
+mumbai,coconut,2014,-627.75,-892.0,mumbai,maharashtra
+mumbai,coconut,2015,-694.75,-764.4166666666666,mumbai,maharashtra
+mumbai,coconut,2016,-1139.4545454545455,-1176.1818181818182,mumbai,maharashtra
+khalapur(shil-phata),paddy-unhusked,2016,-110.0,-110.0,raigad,maharashtra
+daryapur,pigeon pea (tur),2014,201.75,-687.0,amaravathi,maharashtra
+parbhani,sorgum(jawar),2014,150.0,-743.0,parbhani,maharashtra
+parbhani,sorgum(jawar),2015,-30.555555555555657,-112.66666666666674,parbhani,maharashtra
+parbhani,sorgum(jawar),2016,-23.40000000000009,-111.5,parbhani,maharashtra
+indapur-bhigwan,pigeon pea (tur),2014,-1512.0,-2432.0,pune,maharashtra
+nandura,sorgum(jawar),2014,-424.5,-805.75,buldhana,maharashtra
+nandura,sorgum(jawar),2015,-458.66666666666674,-475.91666666666674,buldhana,maharashtra
+nandura,sorgum(jawar),2016,-363.81818181818176,-566.5454545454545,buldhana,maharashtra
+solapur,wheat(husked),2014,184.0,-351.5,solapur,maharashtra
+kada (ashti),sorgum(jawar),2014,617.0,-576.0,beed,maharashtra
+kada (ashti),sorgum(jawar),2015,-36.799999999999955,-107.20000000000005,beed,maharashtra
+kada (ashti),sorgum(jawar),2016,-10.333333333333258,-181.22222222222217,beed,maharashtra
+sillod,safflower,2015,-1350.0,-1850.0,aurangabad,maharashtra
+jalgaon jamod,wheat(husked),2014,-144.0,-511.25,buldhana,maharashtra
+jalgaon jamod,wheat(husked),2015,-246.72727272727275,-247.27272727272725,buldhana,maharashtra
+telhara,wheat(husked),2014,-66.0,-497.0,akola,maharashtra
+telhara,wheat(husked),2015,-152.4000000000001,-154.0,akola,maharashtra
+varora,wheat(husked),2015,-212.0,-212.0,chandrapur,maharashtra
+jalna,safflower,2014,-812.5,-1766.5,jalna,maharashtra
+jalna,safflower,2015,-990.6999999999998,-1115.9,jalna,maharashtra
+hadgaon,wheat(husked),2014,206.5,-396.0,nanded,maharashtra
+hadgaon,wheat(husked),2015,-79.25,-35.0,nanded,maharashtra
+tuljapur,maize,2014,-176.0,-495.33333333333337,osmanabad,maharashtra
+tuljapur,maize,2015,3.4444444444443434,-8.333333333333258,osmanabad,maharashtra
+tuljapur,maize,2016,49.55555555555566,-70.66666666666674,osmanabad,maharashtra
+dondaicha-sindkheda,sorgum(jawar),2015,-239.0,-239.0,dhule,maharashtra
+dondaicha-sindkheda,sorgum(jawar),2016,-48.545454545454504,-48.545454545454504,dhule,maharashtra
+ghatanji,sorgum(jawar),2015,-690.0,-690.0,yewatmal,maharashtra
+aheri,pigeon pea (tur),2014,-350.0,-1411.0,gadchiroli,maharashtra
+kolhapur-laxmipuri,wheat(husked),2014,308.33333333333326,-264.33333333333326,kolhapur,maharashtra
+sakri,bajri,2014,-80.5,-541.0,dhule,maharashtra
+sakri,bajri,2015,-56.33333333333326,-99.16666666666674,dhule,maharashtra
+sakri,bajri,2016,45.63636363636374,-87.09090909090901,dhule,maharashtra
+patur,sorgum(jawar),2014,-112.5,-346.0,akola,maharashtra
+patur,sorgum(jawar),2015,-280.91666666666674,-282.41666666666674,akola,maharashtra
+patur,sorgum(jawar),2016,-231.090909090909,-272.0,akola,maharashtra
+bhokardan,maize,2014,-203.0,-382.0,jalna,maharashtra
+bhokardan,maize,2015,-139.0,-141.5,jalna,maharashtra
+bhokardan,maize,2016,-3.099999999999909,-69.20000000000005,jalna,maharashtra
+nanded,pigeon pea (tur),2014,-387.0,-1496.0,nanded,maharashtra
+osmanabad,sunflower,2016,-899.1999999999998,-899.1999999999998,osmanabad,maharashtra
+ambejogai,pigeon pea (tur),2014,-292.75,-1354.5,beed,maharashtra
+pune,maize,2014,156.0,-405.33333333333337,pune,maharashtra
+mangalwedha,sorgum(jawar),2014,43.75,-601.75,solapur,maharashtra
+mangalwedha,sorgum(jawar),2015,-143.16666666666674,-150.75,solapur,maharashtra
+mangalwedha,sorgum(jawar),2016,40.09090909090901,-216.27272727272725,solapur,maharashtra
+latur,pigeon pea (tur),2014,-21.75,-1004.5,latur,maharashtra
+paithan,wheat(husked),2014,35.0,-722.0,aurangabad,maharashtra
+paithan,wheat(husked),2015,-102.44444444444434,-133.66666666666674,aurangabad,maharashtra
+indapur-bhigwan,mustard,2015,650.5,-350.0,pune,maharashtra
+shevgaon,sorgum(jawar),2014,-40.0,-623.25,ahmadnagar,maharashtra
+shevgaon,sorgum(jawar),2015,-199.0,-195.25,ahmadnagar,maharashtra
+shevgaon,sorgum(jawar),2016,78.5454545454545,-204.81818181818176,ahmadnagar,maharashtra
+akot,sorgum(jawar),2015,-462.75,-606.5,akola,maharashtra
+akot,sorgum(jawar),2016,-307.27272727272725,-367.81818181818176,akola,maharashtra
+lasalgaon-vinchur,sorgum(jawar),2015,-288.25,-288.25,nasik,maharashtra
+lasalgaon-vinchur,sorgum(jawar),2016,-210.5999999999999,-210.5999999999999,nasik,maharashtra
+pombhurni,cotton,2015,-319.0,-1373.0,chandrapur,maharashtra
+pombhurni,cotton,2016,-20.0,-308.5999999999999,chandrapur,maharashtra
+akluj,sorgum(jawar),2014,198.0,-299.0,solapur,maharashtra
+akluj,sorgum(jawar),2016,101.5,-99.0,solapur,maharashtra
+sangrampur,wheat(husked),2014,-127.66666666666674,-127.66666666666674,buldhana,maharashtra
+sangrampur,wheat(husked),2015,-342.5,-342.5,buldhana,maharashtra
+akole,paddy-unhusked,2014,71.25,-381.0,ahmadnagar,maharashtra
+akole,paddy-unhusked,2016,27.272727272727252,-76.5454545454545,ahmadnagar,maharashtra
+kalamb (os),niger-seed,2016,-1625.0,-1625.0,osmanabad,maharashtra
+basmat,sunflower,2015,-650.0,-650.0,hingoli,maharashtra
+satana,maize,2014,-243.0,-491.25,nasik,maharashtra
+satana,maize,2015,-53.888888888888914,-72.66666666666674,nasik,maharashtra
+satana,maize,2016,11.63636363636374,-29.63636363636374,nasik,maharashtra
+sironcha,maize,2016,-4.5,-4.5,gadchiroli,maharashtra
+parola,bajri,2015,-56.5,-56.5,jalgaon,maharashtra
+parola,bajri,2016,-13.200000000000045,-13.200000000000045,jalgaon,maharashtra
+dharni,cotton,2015,50.0,-503.0,amaravathi,maharashtra
+dharni,cotton,2016,281.75,-111.75,amaravathi,maharashtra
+kalamb (os),maize,2014,-191.0,-546.5,osmanabad,maharashtra
+kalamb (os),maize,2015,-34.58333333333326,-48.41666666666674,osmanabad,maharashtra
+kurdwadi,pigeon pea (tur),2014,-1368.75,-2115.5,solapur,maharashtra
+dondaicha,cotton,2014,287.5,-719.0,dhule,maharashtra
+dhule,maize,2014,-357.5,-482.75,dhule,maharashtra
+dhule,maize,2015,-159.41666666666674,-168.75,dhule,maharashtra
+dhule,maize,2016,1.2999999999999545,-71.90000000000009,dhule,maharashtra
+nira-saswad,sorgum(jawar),2015,21.666666666666742,-161.0,pune,maharashtra
+nira-saswad,sorgum(jawar),2016,-25.454545454545496,-78.09090909090901,pune,maharashtra
+malegaon,pigeon pea (tur),2014,-434.0,-2141.0,nasik,maharashtra
+lasalgaon-vinchur,maize,2015,-98.55555555555566,-281.1111111111111,nasik,maharashtra
+lasalgaon-vinchur,maize,2016,56.454545454545496,-74.5454545454545,nasik,maharashtra
+pathari,bajri,2014,225.0,-573.0,parbhani,maharashtra
+pathari,bajri,2015,22.71428571428578,-136.8571428571429,parbhani,maharashtra
+pathari,bajri,2016,-135.22222222222217,-236.1111111111111,parbhani,maharashtra
+mangalwedha,pigeon pea (tur),2014,-903.5,-1922.75,solapur,maharashtra
+savner,sorgum(jawar),2014,-335.66666666666674,-838.3333333333334,nagpur,maharashtra
+savner,sorgum(jawar),2015,-491.25,-514.125,nagpur,maharashtra
+savner,sorgum(jawar),2016,-486.4000000000001,-610.5999999999999,nagpur,maharashtra
+lohara,wheat(husked),2015,-275.0,-275.0,osmanabad,maharashtra
+pathari,wheat(husked),2014,-13.0,-537.25,parbhani,maharashtra
+pathari,wheat(husked),2015,-80.33333333333326,-126.08333333333326,parbhani,maharashtra
+umarkhed-danki,sorgum(jawar),2015,19.5,-97.33333333333326,yewatmal,maharashtra
+umarkhed-danki,sorgum(jawar),2016,-250.0,-250.0,yewatmal,maharashtra
+vadvani,sorgum(jawar),2016,-25.0,-25.0,beed,maharashtra
+digras,sorgum(jawar),2014,-157.5,-686.0,yewatmal,maharashtra
+digras,sorgum(jawar),2015,-79.22222222222217,-172.0,yewatmal,maharashtra
+digras,sorgum(jawar),2016,-80.36363636363626,-283.63636363636374,yewatmal,maharashtra
+nanded,sorgum(jawar),2014,-176.66666666666674,-734.3333333333334,nanded,maharashtra
+nanded,sorgum(jawar),2015,-372.70000000000005,-375.4000000000001,nanded,maharashtra
+nanded,sorgum(jawar),2016,-275.0,-371.090909090909,nanded,maharashtra
+lohara,bajri,2016,-58.5,-58.5,osmanabad,maharashtra
+yeotmal,wheat(husked),2014,-17.25,-466.25,yewatmal,maharashtra
+yeotmal,wheat(husked),2015,-75.09999999999991,-76.40000000000009,yewatmal,maharashtra
+khamgaon,pigeon pea (tur),2014,-275.0,-1623.25,buldhana,maharashtra
+dhule,sorgum(jawar),2014,-28.0,-633.0,dhule,maharashtra
+dhule,sorgum(jawar),2015,-224.0,-271.58333333333326,dhule,maharashtra
+dhule,sorgum(jawar),2016,-197.36363636363626,-419.81818181818176,dhule,maharashtra
+kalamb (os),sorgum(jawar),2014,-172.25,-581.5,osmanabad,maharashtra
+kalamb (os),sorgum(jawar),2016,-94.4545454545455,-299.909090909091,osmanabad,maharashtra
+kopargaon,wheat(husked),2014,-39.75,-436.25,ahmadnagar,maharashtra
+kopargaon,wheat(husked),2015,-107.33333333333326,-107.66666666666674,ahmadnagar,maharashtra
+taloda,bajri,2014,7.5,-337.5,nandurbar,maharashtra
+indapur (nimgaon ketki),sorgum(jawar),2015,-301.4000000000001,-301.4000000000001,pune,maharashtra
+indapur (nimgaon ketki),sorgum(jawar),2016,-55.111111111111086,-55.111111111111086,pune,maharashtra
+dharni,wheat(husked),2015,-225.0,-225.0,amaravathi,maharashtra
+lonar,sunflower,2016,-410.0,-410.0,buldhana,maharashtra
+akola,sunflower,2015,-661.0,-1228.25,akola,maharashtra
+akola,sunflower,2016,-7.800000000000182,-152.4000000000001,akola,maharashtra
+mehkar,wheat(husked),2014,-110.5,-601.5,buldhana,maharashtra
+mehkar,wheat(husked),2015,-175.5,-190.375,buldhana,maharashtra
+varud,cotton,2014,156.5,-1516.0,amaravathi,maharashtra
+pathardi,bajri,2014,13.75,-91.0,ahmadnagar,maharashtra
+pathardi,bajri,2015,-15.900000000000091,-16.59999999999991,ahmadnagar,maharashtra
+pathardi,bajri,2016,-29.555555555555657,-79.44444444444434,ahmadnagar,maharashtra
+varud,maize,2015,-15.0,-233.33333333333326,amaravathi,maharashtra
+varud,maize,2016,-810.0,-754.0,amaravathi,maharashtra
+hingoli,sorgum(jawar),2014,-373.5,-777.0,hingoli,maharashtra
+hingoli,sorgum(jawar),2015,-109.55555555555566,-148.1111111111111,hingoli,maharashtra
+dhadgaon,sorgum(jawar),2015,-440.0,-440.0,nandurbar,maharashtra
+dhadgaon,sorgum(jawar),2016,-364.0999999999999,-364.0999999999999,nandurbar,maharashtra
+dondaicha-sindkheda,maize,2015,-53.0,-53.0,dhule,maharashtra
+dondaicha-sindkheda,maize,2016,-75.90909090909099,-75.90909090909099,dhule,maharashtra
+varud-rajura bazar,mustard,2015,-354.5,-354.5,amaravathi,maharashtra
+mahad,paddy-unhusked,2015,-8.333333333333258,-8.333333333333258,raigad,maharashtra
+mahad,paddy-unhusked,2016,-54.40000000000009,-54.40000000000009,raigad,maharashtra
+malkapur,bajri,2014,-40.0,-250.75,buldhana,maharashtra
+malkapur,bajri,2015,-118.18181818181824,-117.0,buldhana,maharashtra
+malkapur,bajri,2016,107.57142857142867,-9.571428571428669,buldhana,maharashtra
+akkolkot,sorgum(jawar),2014,-487.0,-487.0,solapur,maharashtra
+khamgaon,cotton,2014,231.0,-760.5,buldhana,maharashtra
+varud,sorgum(jawar),2014,-20.0,-20.0,amaravathi,maharashtra
+varud,sorgum(jawar),2015,-44.0,-44.0,amaravathi,maharashtra
+varud,sorgum(jawar),2016,-548.25,-548.25,amaravathi,maharashtra
+jintur,bajri,2014,151.0,-550.0,parbhani,maharashtra
+sillod,wheat(husked),2014,-48.0,-698.0,aurangabad,maharashtra
+sillod,wheat(husked),2015,-143.33333333333326,-285.83333333333326,aurangabad,maharashtra
+devala,bajri,2014,25.25,-375.5,nasik,maharashtra
+gadchiroli,paddy-unhusked,2014,501.25,-127.0,gadchiroli,maharashtra
+partur,cotton,2014,-19.0,-1016.0,jalna,maharashtra
+ulhasnagar,coconut,2015,-1242.0,-1242.0,thane,maharashtra
+ulhasnagar,coconut,2016,-1590.1666666666667,-1590.1666666666667,thane,maharashtra
+ahmedpur,wheat(husked),2014,-179.0,-742.0,latur,maharashtra
+ahmedpur,wheat(husked),2015,-285.2857142857142,-376.2857142857142,latur,maharashtra
+ahmednagar,bajri,2014,203.5,-340.0,ahmadnagar,maharashtra
+balapur,bajri,2015,-25.0,-25.0,akola,maharashtra
+newasa,sorgum(jawar),2014,-5.0,-392.5,ahmadnagar,maharashtra
+newasa,sorgum(jawar),2015,2.75,-0.375,ahmadnagar,maharashtra
+newasa,sorgum(jawar),2016,-8.200000000000045,-10.5,ahmadnagar,maharashtra
+kalmeshwar,pigeon pea (tur),2014,11.0,-1336.0,nagpur,maharashtra
+mangrulpeer,sorgum(jawar),2014,-221.33333333333326,-792.6666666666666,wasim,maharashtra
+mangrulpeer,sorgum(jawar),2015,-460.83333333333326,-468.91666666666674,wasim,maharashtra
+mangrulpeer,sorgum(jawar),2016,-360.5454545454545,-580.8181818181818,wasim,maharashtra
+murum,sorgum(jawar),2014,470.0,-249.33333333333326,osmanabad,maharashtra
+umared,cotton,2014,87.0,-1620.0,nagpur,maharashtra
+umared,cotton,2015,14.0,-106.44444444444434,nagpur,maharashtra
+umared,cotton,2016,430.0,-198.66666666666652,nagpur,maharashtra
+kinwat,cotton,2014,0.3333333333334849,-1431.3333333333335,nanded,maharashtra
+kinwat,cotton,2015,-99.875,-138.0,nanded,maharashtra
+kinwat,cotton,2016,281.33333333333303,-298.1666666666665,nanded,maharashtra
+indapur (nimgaon ketki),rice(paddy-hus),2016,-334.0,-334.0,pune,maharashtra
+chandur bajar,wheat(husked),2014,-33.33333333333326,-582.0,amaravathi,maharashtra
+chandur bajar,wheat(husked),2015,-134.0,-145.83333333333326,amaravathi,maharashtra
+shevgaon-bodhegaon,wheat(husked),2014,24.5,-467.5,ahmadnagar,maharashtra
+bhokar,sunflower,2014,-50.0,-50.0,nanded,maharashtra
+bhokar,sunflower,2015,-722.25,-722.25,nanded,maharashtra
+bhokar,sunflower,2016,-505.0,-505.0,nanded,maharashtra
+pathardi,cotton,2014,26.0,-912.0,ahmadnagar,maharashtra
+kurdwadi-modnimb,maize,2015,-11.833333333333258,-97.25,solapur,maharashtra
+sangrampur-varvatbakal,wheat(husked),2015,-285.0,-285.0,buldhana,maharashtra
+shahada,sorgum(jawar),2014,6.5,-559.25,nandurbar,maharashtra
+shahada,sorgum(jawar),2015,-178.4545454545455,-176.36363636363626,nandurbar,maharashtra
+shahada,sorgum(jawar),2016,-108.4545454545455,-351.0,nandurbar,maharashtra
+kalvan,sunflower,2014,-750.0,-1917.0,nasik,maharashtra
+kalvan,sunflower,2015,-455.75,-423.0,nasik,maharashtra
+kalvan,sunflower,2016,-350.0,-1484.0,nasik,maharashtra
+loha,wheat(husked),2014,-26.0,-330.0,nanded,maharashtra
+loha,wheat(husked),2015,-126.09999999999991,-123.5,nanded,maharashtra
+tuljapur,pigeon pea (tur),2014,32.0,-1587.0,osmanabad,maharashtra
+kannad,maize,2014,-426.25,-619.75,aurangabad,maharashtra
+kannad,maize,2015,-244.71428571428578,-272.7142857142858,aurangabad,maharashtra
+kannad,maize,2016,-119.85714285714289,-220.8571428571429,aurangabad,maharashtra
+raver,sorgum(jawar),2014,-357.0,-753.75,jalgaon,maharashtra
+raver,sorgum(jawar),2015,-394.16666666666674,-407.83333333333326,jalgaon,maharashtra
+raver,sorgum(jawar),2016,-336.4545454545455,-543.8181818181818,jalgaon,maharashtra
+latur,sorgum(jawar),2014,-131.33333333333326,-384.33333333333326,latur,maharashtra
+latur,sorgum(jawar),2016,-43.818181818181756,-224.27272727272725,latur,maharashtra
+achalpur,pigeon pea (tur),2014,320.75,-1127.0,amaravathi,maharashtra
+barshi,bajri,2014,227.33333333333326,-343.0,solapur,maharashtra
+lonar,maize,2014,-242.5,-443.0,buldhana,maharashtra
+lonar,maize,2015,-227.57142857142867,-216.8571428571429,buldhana,maharashtra
+lonar,maize,2016,-249.75,-380.0,buldhana,maharashtra
+kinwat,wheat(husked),2015,-255.66666666666674,-255.66666666666674,nanded,maharashtra
+vaijapur,wheat(husked),2014,-88.25,-343.75,aurangabad,maharashtra
+vaijapur,wheat(husked),2015,-16.625,-31.125,aurangabad,maharashtra
+akola,safflower,2015,-1118.4,-1118.4,akola,maharashtra
+buldhana-dhad,sorgum(jawar),2016,-450.0,-450.0,buldhana,maharashtra
+ahmedpur,sesamum,2014,4249.0,-133.5,latur,maharashtra
+ahmedpur,sesamum,2016,-349.0,-550.8571428571431,latur,maharashtra
+malkapur,pigeon pea (tur),2014,-315.75,-1700.0,buldhana,maharashtra
+shegaon,mustard,2014,-448.0,-802.5,buldhana,maharashtra
+shegaon,mustard,2015,-220.72727272727252,-245.27272727272748,buldhana,maharashtra
+zarijamini,wheat(husked),2015,-25.0,-25.0,yewatmal,maharashtra
+shahada,pigeon pea (tur),2014,-473.5,-1636.0,nandurbar,maharashtra
+pulgaon,cotton,2014,156.0,-1172.0,wardha,maharashtra
+pulgaon,cotton,2016,510.42857142857156,-261.57142857142844,wardha,maharashtra
+achalpur,maize,2014,8.75,-320.5,amaravathi,maharashtra
+achalpur,maize,2016,54.09999999999991,-21.5,amaravathi,maharashtra
+korpana,cotton,2014,292.5,-410.5,chandrapur,maharashtra
+korpana,cotton,2016,867.0,-918.0,chandrapur,maharashtra
+amalner,sorgum(jawar),2014,-235.66666666666674,-787.0,jalgaon,maharashtra
+amalner,sorgum(jawar),2015,-312.0,-337.0,jalgaon,maharashtra
+amalner,sorgum(jawar),2016,-74.27272727272725,-245.18181818181824,jalgaon,maharashtra
+telhara,sunflower,2015,-1020.6666666666665,-1020.6666666666665,akola,maharashtra
+sindi,cotton,2014,196.0,-948.0,wardha,maharashtra
+sindi,cotton,2016,441.16666666666697,-237.66666666666652,wardha,maharashtra
+chandur rly.,pigeon pea (tur),2014,400.0,-1450.0,amaravathi,maharashtra
+karjat (raigad),paddy-unhusked,2014,-50.0,-460.0,raigad,maharashtra
+karjat (raigad),paddy-unhusked,2015,-70.90909090909099,-88.72727272727275,raigad,maharashtra
+karjat (raigad),paddy-unhusked,2016,-120.0,-355.125,raigad,maharashtra
+sangrampur,maize,2014,-457.5,-457.5,buldhana,maharashtra
+sangrampur,maize,2015,-376.20000000000005,-376.20000000000005,buldhana,maharashtra
+pandharpur,wheat(husked),2014,102.0,-138.25,solapur,maharashtra
+sindi (selu),cotton,2014,151.5,-1605.0,wardha,maharashtra
+sindi (selu),cotton,2015,32.75,-121.5,wardha,maharashtra
+sindi (selu),cotton,2016,300.83333333333303,-278.5,wardha,maharashtra
+sillod,mustard,2015,-550.0,-550.0,aurangabad,maharashtra
+bhokardan,wheat(husked),2014,14.5,-504.25,jalna,maharashtra
+bhokardan,wheat(husked),2015,-76.58333333333326,-97.5,jalna,maharashtra
+phaltan,bajri,2014,76.0,-352.75,satara,maharashtra
+phaltan,bajri,2015,-10.909090909090992,-4.818181818181756,satara,maharashtra
+phaltan,bajri,2016,7.5,-104.0,satara,maharashtra
+yawal,bajri,2015,-225.0,-225.0,jalgaon,maharashtra
+yawal,bajri,2016,-181.75,-181.75,jalgaon,maharashtra
+karanja,sunflower,2014,-1051.0,-1051.0,wasim,maharashtra
+karanja,sunflower,2015,-725.6666666666665,-725.6666666666665,wasim,maharashtra
+tuljapur,paddy-unhusked,2014,-493.0,-493.0,osmanabad,maharashtra
+tuljapur,paddy-unhusked,2015,-445.0,-445.0,osmanabad,maharashtra
+murud,paddy-unhusked,2015,90.0,-676.0,raigad,maharashtra
+murud,paddy-unhusked,2016,11.454545454545496,-121.18181818181824,raigad,maharashtra
+shahapur,paddy-unhusked,2014,63.25,-118.25,thane,maharashtra
+shahapur,paddy-unhusked,2016,3.6666666666667425,-17.333333333333258,thane,maharashtra
+dharangaon,sorgum(jawar),2016,-281.375,-281.375,jalgaon,maharashtra
+bhokar,pigeon pea (tur),2014,-125.33333333333303,-1330.3333333333335,nanded,maharashtra
+digras,rice(paddy-hus),2016,-285.0,-285.0,yewatmal,maharashtra
+ghansawangi,sorgum(jawar),2014,-450.0,-760.0,jalna,maharashtra
+ghansawangi,sorgum(jawar),2015,-53.40000000000009,-141.20000000000005,jalna,maharashtra
+ghansawangi,sorgum(jawar),2016,-15.0,-117.77777777777783,jalna,maharashtra
+ambejogai,safflower,2014,-595.0,-595.0,beed,maharashtra
+ambejogai,safflower,2015,-953.25,-953.25,beed,maharashtra
+pen,paddy-unhusked,2014,0.0,-567.0,raigad,maharashtra
+pen,paddy-unhusked,2015,-38.700000000000045,-106.0,raigad,maharashtra
+pen,paddy-unhusked,2016,-49.454545454545496,-218.36363636363626,raigad,maharashtra
+lasur station,pigeon pea (tur),2014,-150.0,-1557.0,aurangabad,maharashtra
+lasalgaon-vinchur,bajri,2015,76.11111111111109,-59.111111111111086,nasik,maharashtra
+achalpur,wheat(husked),2014,45.25,-427.75,amaravathi,maharashtra
+achalpur,wheat(husked),2015,-42.09999999999991,-35.700000000000045,amaravathi,maharashtra
+umarga,wheat(husked),2014,-71.5,-179.75,osmanabad,maharashtra
+umarga,wheat(husked),2015,20.083333333333258,-2.5833333333332575,osmanabad,maharashtra
+nandgaon,sorgum(jawar),2014,-50.0,-50.0,nasik,maharashtra
+nandgaon,sorgum(jawar),2015,-242.5,-242.5,nasik,maharashtra
+nandgaon,sorgum(jawar),2016,-38.0,-38.0,nasik,maharashtra
+latur-murud,sorgum(jawar),2015,-145.8571428571429,-367.0,latur,maharashtra
+latur-murud,sorgum(jawar),2016,-141.72727272727275,-295.5454545454545,latur,maharashtra
+lakhani,paddy-unhusked,2014,921.0,-173.5,bhandara,maharashtra
+sillod-bharadi,sunflower,2015,-500.0,-500.0,aurangabad,maharashtra
+sillod-bharadi,sunflower,2016,-450.0,-450.0,aurangabad,maharashtra
+jalgaon jamod-aasalgaon,maize,2014,-329.5,-577.25,buldhana,maharashtra
+jalgaon jamod-aasalgaon,maize,2015,-330.5,-332.5,buldhana,maharashtra
+jalgaon jamod-aasalgaon,maize,2016,-278.375,-352.875,buldhana,maharashtra
+risod,wheat(husked),2015,-100.0,-100.0,wasim,maharashtra
+parli-vaijnath,pigeon pea (tur),2014,-396.6666666666665,-1700.3333333333335,beed,maharashtra
+kille dharur,maize,2014,24.0,-510.0,beed,maharashtra
+kille dharur,maize,2015,129.5,-46.66666666666674,beed,maharashtra
+kille dharur,maize,2016,77.81818181818176,-63.36363636363626,beed,maharashtra
+chalisgaon,sorgum(jawar),2014,-388.66666666666674,-847.3333333333334,jalgaon,maharashtra
+chalisgaon,sorgum(jawar),2015,-403.0,-444.0,jalgaon,maharashtra
+chalisgaon,sorgum(jawar),2016,-333.63636363636374,-458.27272727272725,jalgaon,maharashtra
+jalgaon jamod-aasalgaon,wheat(husked),2014,-123.5,-632.25,buldhana,maharashtra
+jalgaon jamod-aasalgaon,wheat(husked),2015,-244.75,-262.33333333333326,buldhana,maharashtra
+ahmedpur,paddy-unhusked,2014,-509.0,-509.0,latur,maharashtra
+ahmedpur,paddy-unhusked,2015,-445.4,-445.4,latur,maharashtra
+bhokar,cotton,2014,154.33333333333348,-306.0,nanded,maharashtra
+bhokar,cotton,2016,273.83333333333303,-3.666666666666515,nanded,maharashtra
+umarkhed,pigeon pea (tur),2014,-550.0,-550.0,yewatmal,maharashtra
+nilanga,safflower,2015,-779.0,-779.0,latur,maharashtra
+devri,paddy-unhusked,2016,-76.66666666666674,-76.66666666666674,gondiya,maharashtra
+nandgaon khandeshwar,wheat(husked),2015,-422.5,-642.0,amaravathi,maharashtra
+akola,maize,2015,-41.16666666666674,-141.0,akola,maharashtra
+akola,maize,2016,94.20000000000005,-4.400000000000091,akola,maharashtra
+sailu,bajri,2014,328.66666666666674,-21.0,parbhani,maharashtra
+sailu,bajri,2016,107.33333333333326,-180.33333333333326,parbhani,maharashtra
+aurangabad,bajri,2015,-25.0,-25.0,aurangabad,maharashtra
+dound,bajri,2014,90.0,-438.0,pune,maharashtra
+chopda,bajri,2014,-55.75,-483.5,jalgaon,maharashtra
+chopda,bajri,2015,-46.90909090909099,-36.818181818181756,jalgaon,maharashtra
+chopda,bajri,2016,193.5454545454545,-46.36363636363626,jalgaon,maharashtra
+ausa,bajri,2014,410.0,-232.5,latur,maharashtra
+umared,rice(paddy-hus),2014,600.0,-25.0,nagpur,maharashtra
+barshi-vairag,safflower,2014,-719.0,-1885.0,solapur,maharashtra
+barshi-vairag,safflower,2015,-300.0,-635.0,solapur,maharashtra
+dhadgaon,maize,2015,-175.0,-175.0,nandurbar,maharashtra
+dhadgaon,maize,2016,-54.59999999999991,-54.59999999999991,nandurbar,maharashtra
+paithan,maize,2016,56.59999999999991,-12.599999999999909,aurangabad,maharashtra
+dhule,sesamum,2016,-127.75,-257.5,dhule,maharashtra
+loha,sunflower,2014,-1050.0,-1050.0,nanded,maharashtra
+loha,sunflower,2015,-900.0,-900.0,nanded,maharashtra
+akola,sorgum(jawar),2014,-318.66666666666674,-762.6666666666666,akola,maharashtra
+akola,sorgum(jawar),2015,-356.20000000000005,-373.5,akola,maharashtra
+akola,sorgum(jawar),2016,-244.5454545454545,-346.4545454545455,akola,maharashtra
+sindi (selu),wheat(husked),2015,-225.0,-225.0,wardha,maharashtra
+pandharpur,maize,2014,-126.0,-555.0,solapur,maharashtra
+pandharpur,maize,2015,86.875,-4.0,solapur,maharashtra
+pandharpur,maize,2016,164.44444444444434,-14.888888888888914,solapur,maharashtra
+savali,paddy-unhusked,2014,751.5,-203.5,chandrapur,maharashtra
+savner,maize,2014,-316.5,-653.0,nagpur,maharashtra
+savner,maize,2015,-222.1428571428571,-246.8571428571429,nagpur,maharashtra
+savner,maize,2016,-145.0,-312.83333333333326,nagpur,maharashtra
+rahuri-vambori,wheat(husked),2014,55.0,-416.0,ahmadnagar,maharashtra
+rahuri-vambori,wheat(husked),2015,-18.799999999999955,-18.799999999999955,ahmadnagar,maharashtra
+armori-desaiganj,paddy-unhusked,2014,217.25,-253.25,gadchiroli,maharashtra
+aurad shahajani,sorgum(jawar),2015,-93.0,-842.0,latur,maharashtra
+aurad shahajani,sorgum(jawar),2016,-231.66666666666674,-192.33333333333326,latur,maharashtra
+yeola,bajri,2014,8.25,-383.75,nasik,maharashtra
+bhokar,wheat(husked),2014,-103.25,-275.25,nanded,maharashtra
+bhokar,wheat(husked),2015,-154.77777777777783,-156.1111111111111,nanded,maharashtra
+jintur,wheat(husked),2014,-10.0,-501.75,parbhani,maharashtra
+jintur,wheat(husked),2015,-4.3333333333332575,-26.083333333333258,parbhani,maharashtra
+sillod,bajri,2014,70.0,-665.0,aurangabad,maharashtra
+sillod,bajri,2015,-89.5,-222.66666666666674,aurangabad,maharashtra
+sillod,bajri,2016,20.0,-83.29999999999995,aurangabad,maharashtra
+mantha,sorgum(jawar),2014,-339.5,-744.5,jalna,maharashtra
+mantha,sorgum(jawar),2015,-405.5,-375.625,jalna,maharashtra
+mantha,sorgum(jawar),2016,-83.90909090909099,-316.090909090909,jalna,maharashtra
+osmanabad,pigeon pea (tur),2014,50.0,-2002.0,osmanabad,maharashtra
+arvi,cotton,2014,137.66666666666652,-1409.3333333333335,wardha,maharashtra
+ramtek,rice(paddy-hus),2015,-20.0,-20.0,nagpur,maharashtra
+navapur,wheat(husked),2015,-59.0,-59.0,nandurbar,maharashtra
+raver-sawada,sorgum(jawar),2016,-589.5,-589.5,jalgaon,maharashtra
+ramtek,wheat(husked),2014,25.0,-194.75,nagpur,maharashtra
+ramtek,wheat(husked),2015,-95.27272727272725,-99.5454545454545,nagpur,maharashtra
+umarga,pigeon pea (tur),2014,-194.5,-1096.75,osmanabad,maharashtra
+naigaon,sesamum,2016,-800.0,-800.0,nanded,maharashtra
+nandurbar,pigeon pea (tur),2014,-394.5,-1819.0,nandurbar,maharashtra
+kada,pigeon pea (tur),2014,0.0,-1604.0,beed,maharashtra
+morshi,wheat(husked),2014,-30.75,-495.25,amaravathi,maharashtra
+morshi,wheat(husked),2015,-45.08333333333326,-69.83333333333326,amaravathi,maharashtra
+lakhandur,wheat(husked),2015,-127.33333333333326,-127.33333333333326,bhandara,maharashtra
+kalvan,paddy-unhusked,2016,-70.0,-70.0,nasik,maharashtra
+pachora,sunflower,2015,-591.5,-591.5,jalgaon,maharashtra
+pachora,sunflower,2016,-760.5,-760.5,jalgaon,maharashtra
+malkapur,wheat(husked),2014,-71.33333333333326,-606.6666666666666,buldhana,maharashtra
+malkapur,wheat(husked),2015,-108.41666666666674,-150.33333333333326,buldhana,maharashtra
+devala,sunflower,2015,-568.0,-568.0,nasik,maharashtra
+indapur-bhigwan,sunflower,2014,-1115.0,-1477.0,pune,maharashtra
+indapur-bhigwan,sunflower,2015,-968.3000000000002,-982.1999999999998,pune,maharashtra
+indapur-bhigwan,sunflower,2016,-904.0,-1004.0,pune,maharashtra
+chikhali,wheat(husked),2014,-72.0,-460.0,buldhana,maharashtra
+chikhali,wheat(husked),2015,-144.125,-145.5,buldhana,maharashtra
+jalgaon jamod-aasalgaon,pigeon pea (tur),2014,-151.75,-1220.25,buldhana,maharashtra
+umared,pigeon pea (tur),2014,-524.75,-1460.0,nagpur,maharashtra
+aheri,sesamum,2016,-129.19999999999982,-129.19999999999982,gadchiroli,maharashtra
+kurdwadi-modnimb,sorgum(jawar),2015,-404.0,-487.91666666666674,solapur,maharashtra
+kurdwadi-modnimb,sorgum(jawar),2016,-175.0,-289.18181818181824,solapur,maharashtra
+umarkhed,sorgum(jawar),2015,-218.57142857142867,-318.57142857142867,yewatmal,maharashtra
+umarkhed,sorgum(jawar),2016,-250.0,-250.0,yewatmal,maharashtra
+umarga,rice(paddy-hus),2016,-210.0,-210.0,osmanabad,maharashtra
+jalgaon,bajri,2014,112.5,-393.25,jalgaon,maharashtra
+murum,sunflower,2015,-128.0,-766.0,osmanabad,maharashtra
+murum,sunflower,2016,-30.0,-46.0,osmanabad,maharashtra
+akkolkot,maize,2014,-109.0,-109.0,solapur,maharashtra
+akkolkot,maize,2016,-61.66666666666674,-61.66666666666674,solapur,maharashtra
+mangaon(bhadav),paddy-unhusked,2014,-37.5,-639.0,raigad,maharashtra
+mangaon(bhadav),paddy-unhusked,2015,-115.25,-165.125,raigad,maharashtra
+mangaon(bhadav),paddy-unhusked,2016,-55.14285714285711,-223.8571428571429,raigad,maharashtra
+nagpur,pigeon pea (tur),2014,-300.0,-1820.0,nagpur,maharashtra
+akkalkuwa,wheat(husked),2015,-300.0,-300.0,nandurbar,maharashtra
+yeola,sorgum(jawar),2014,166.0,-411.0,nasik,maharashtra
+yeola,sorgum(jawar),2016,-17.818181818181756,-65.27272727272725,nasik,maharashtra
+bhokar,maize,2016,-58.85714285714289,-58.85714285714289,nanded,maharashtra
+shrigonda,wheat(husked),2015,-16.0,-16.0,ahmadnagar,maharashtra
+washim,maize,2014,-310.0,-310.0,wasim,maharashtra
+kej,safflower,2015,-149.5,-149.5,beed,maharashtra
+aheri,paddy-unhusked,2014,194.0,-492.33333333333337,gadchiroli,maharashtra
+osmanabad,sorgum(jawar),2014,-34.0,-519.0,osmanabad,maharashtra
+osmanabad,sorgum(jawar),2015,-121.85714285714289,-118.85714285714289,osmanabad,maharashtra
+osmanabad,sorgum(jawar),2016,-32.27272727272725,-157.63636363636374,osmanabad,maharashtra
+murbad,paddy-unhusked,2014,364.0,-246.5,thane,maharashtra
+murbad,paddy-unhusked,2016,-17.444444444444343,-151.22222222222217,thane,maharashtra
+vaijapur,bajri,2014,-78.25,-224.5,aurangabad,maharashtra
+umared,mustard,2014,-387.5,-1397.0,nagpur,maharashtra
+umared,mustard,2015,-440.8888888888887,-462.55555555555566,nagpur,maharashtra
+chakur,sunflower,2016,-908.0,-908.0,latur,maharashtra
+vani,wheat(husked),2014,-100.0,-100.0,yewatmal,maharashtra
+lonand,wheat(husked),2014,-21.75,-204.75,satara,maharashtra
+lonand,wheat(husked),2015,-38.90909090909099,-42.181818181818244,satara,maharashtra
+sinner,sunflower,2015,-1333.0,-1333.0,nasik,maharashtra
+sinner,sunflower,2016,-449.0,-449.0,nasik,maharashtra
+ahmedpur,maize,2014,-244.0,-611.0,latur,maharashtra
+aarni,sorgum(jawar),2015,-527.0,-527.0,yewatmal,maharashtra
+barshi,safflower,2015,-614.6666666666665,-1300.6666666666667,solapur,maharashtra
+khamgaon,safflower,2015,-1258.25,-1258.25,buldhana,maharashtra
+dondaicha-sindkheda,wheat(husked),2015,-46.0,-46.0,dhule,maharashtra
+nandura,sunflower,2015,-1290.0,-1290.0,buldhana,maharashtra
+kada,sorgum(jawar),2014,-17.75,-559.75,beed,maharashtra
+kada,sorgum(jawar),2015,-61.25,-89.25,beed,maharashtra
+kada,sorgum(jawar),2016,3.272727272727252,-246.81818181818176,beed,maharashtra
+jamkhed,bajri,2014,62.25,-433.5,ahmadnagar,maharashtra
+jamkhed,bajri,2016,160.33333333333326,-46.66666666666674,ahmadnagar,maharashtra
+morshi,pigeon pea (tur),2014,140.5,-1034.5,amaravathi,maharashtra
+mohol,sorgum(jawar),2014,14.5,-179.0,solapur,maharashtra
+amalner,maize,2014,-269.33333333333326,-598.0,jalgaon,maharashtra
+amalner,maize,2015,-86.66666666666674,-125.0,jalgaon,maharashtra
+amalner,maize,2016,-57.63636363636374,-99.5454545454545,jalgaon,maharashtra
+karanja,pigeon pea (tur),2014,254.5,-989.5,wasim,maharashtra
+shrirampur,safflower,2015,-799.0,-799.0,ahmadnagar,maharashtra
+washim,mustard,2015,-183.28571428571422,-183.28571428571422,wasim,maharashtra
+pusad,wheat(husked),2014,0.6666666666667425,-398.33333333333326,yewatmal,maharashtra
+pusad,wheat(husked),2015,-14.299999999999955,-18.5,yewatmal,maharashtra
+shegaon,sunflower,2014,-871.0,-1593.5,buldhana,maharashtra
+shegaon,sunflower,2015,-788.3636363636365,-797.818181818182,buldhana,maharashtra
+shegaon,sunflower,2016,-805.75,-802.5,buldhana,maharashtra
+bhokardan,bajri,2015,-22.0,-22.0,jalna,maharashtra
+newasa,wheat(husked),2014,2.0,-500.5,ahmadnagar,maharashtra
+newasa,wheat(husked),2015,-56.5,-75.25,ahmadnagar,maharashtra
+jalkot,sunflower,2015,-500.0,-500.0,latur,maharashtra
+jalkot,sunflower,2016,-1158.0,-1158.0,latur,maharashtra
+atpadi,maize,2015,76.0,-71.59999999999991,sangli,maharashtra
+ambejogai,sunflower,2014,-820.25,-1536.75,beed,maharashtra
+ambejogai,sunflower,2015,-669.8571428571427,-782.2857142857142,beed,maharashtra
+ambejogai,sunflower,2016,-604.0,-1693.0,beed,maharashtra
+chandrapur,pigeon pea (tur),2014,54.0,-1070.0,chandrapur,maharashtra
+manora,sorgum(jawar),2016,-50.0,-50.0,wasim,maharashtra
+mahagaon,wheat(husked),2015,-168.5,-168.5,yewatmal,maharashtra
+rajura,cotton,2014,118.66666666666652,-1448.3333333333335,chandrapur,maharashtra
+rajura,cotton,2015,-117.375,-109.5,chandrapur,maharashtra
+rajura,cotton,2016,387.5,-224.5,chandrapur,maharashtra
+umrane,maize,2015,-25.0,-25.0,nasik,maharashtra
+kalamb (os),sunflower,2014,-1042.5,-1989.75,osmanabad,maharashtra
+kalamb (os),sunflower,2015,-818.909090909091,-892.4545454545455,osmanabad,maharashtra
+kalamb (os),sunflower,2016,-794.9000000000001,-1166.0,osmanabad,maharashtra
+chalisgaon,bajri,2014,-72.0,-521.3333333333334,jalgaon,maharashtra
+chalisgaon,bajri,2015,-80.5,-97.25,jalgaon,maharashtra
+chalisgaon,bajri,2016,25.09090909090901,-145.090909090909,jalgaon,maharashtra
+lasalgaon,maize,2014,-299.75,-446.25,nasik,maharashtra
+lasalgaon,maize,2015,-128.41666666666674,-134.66666666666674,nasik,maharashtra
+lasalgaon,maize,2016,-34.09090909090901,-100.81818181818176,nasik,maharashtra
+rahuri,wheat(husked),2015,-101.66666666666674,-101.66666666666674,ahmadnagar,maharashtra
+nagpur,wheat(husked),2014,159.75,-238.75,nagpur,maharashtra
+gangapur,sorgum(jawar),2014,-54.75,-604.75,aurangabad,maharashtra
+gangapur,sorgum(jawar),2015,-179.0,-186.0,aurangabad,maharashtra
+gangapur,sorgum(jawar),2016,27.727272727272748,-252.81818181818176,aurangabad,maharashtra
+bhandara,pigeon pea (tur),2014,-750.0,-750.0,bhandara,maharashtra
+lasalgaon,wheat(husked),2014,87.0,-339.5,nasik,maharashtra
+lasalgaon,wheat(husked),2015,-16.75,-18.0,nasik,maharashtra
+washim,pigeon pea (tur),2014,388.75,-479.25,wasim,maharashtra
+vaduj,wheat(husked),2015,105.63636363636374,-100.18181818181824,satara,maharashtra
+satana,bajri,2014,-85.5,-510.25,nasik,maharashtra
+satana,bajri,2015,15.111111111111086,-20.444444444444343,nasik,maharashtra
+satana,bajri,2016,139.090909090909,-32.0,nasik,maharashtra
+beed,pigeon pea (tur),2014,572.0,-1709.0,beed,maharashtra
+shirpur,sunflower,2015,-731.0,-1315.5,dhule,maharashtra
+shirpur,sunflower,2016,-1530.0,-1167.6666666666665,dhule,maharashtra
+beed,bajri,2014,80.0,-337.0,beed,maharashtra
+yeotmal,sorgum(jawar),2014,-133.0,-133.0,yewatmal,maharashtra
+yeotmal,sorgum(jawar),2015,-70.25,-70.25,yewatmal,maharashtra
+yeotmal,sorgum(jawar),2016,-20.5,-20.5,yewatmal,maharashtra
+shegaon,pigeon pea (tur),2014,-90.0,-1354.25,buldhana,maharashtra
+sonpeth,sorgum(jawar),2014,103.0,-316.33333333333326,parbhani,maharashtra
+sonpeth,sorgum(jawar),2016,-53.36363636363626,-99.09090909090901,parbhani,maharashtra
+aamgaon,paddy-unhusked,2014,178.75,-209.5,gondiya,maharashtra
+newasa,bajri,2014,77.25,-351.5,ahmadnagar,maharashtra
+newasa,bajri,2016,230.0,-65.0,ahmadnagar,maharashtra
+buldhana,maize,2015,-168.9000000000001,-347.70000000000005,buldhana,maharashtra
+buldhana,maize,2016,-93.90909090909099,-210.63636363636374,buldhana,maharashtra
+varud-rajura bazar,maize,2014,0.0,-562.5,amaravathi,maharashtra
+varud-rajura bazar,maize,2015,-130.1428571428571,-152.1428571428571,amaravathi,maharashtra
+varud-rajura bazar,maize,2016,-106.0,-311.0,amaravathi,maharashtra
+rahuri-vambori,pigeon pea (tur),2014,-374.0,-1417.25,ahmadnagar,maharashtra
+shirur,wheat(husked),2014,-33.5,-528.25,pune,maharashtra
+shirur,wheat(husked),2015,-124.81818181818176,-137.090909090909,pune,maharashtra
+himayatnagar,wheat(husked),2015,-313.5,-313.5,nanded,maharashtra
+baramati,bajri,2014,206.25,-269.5,pune,maharashtra
+chalisgaon,pigeon pea (tur),2014,-622.0,-1622.0,jalgaon,maharashtra
+ausa,maize,2014,-165.33333333333326,-513.0,latur,maharashtra
+ausa,maize,2015,-100.55555555555566,-99.55555555555566,latur,maharashtra
+ausa,maize,2016,12.900000000000091,-103.5,latur,maharashtra
+ahmedpur,rice(paddy-hus),2016,-85.75,-85.75,latur,maharashtra
+tuljapur,wheat(unhusked),2014,1000.0,-225.0,osmanabad,maharashtra
+jamner-neri,cotton,2014,13.0,-1336.0,jalgaon,maharashtra
+jamner-neri,cotton,2016,455.8571428571431,-108.42857142857156,jalgaon,maharashtra
+jalgaon jamod,maize,2014,-377.33333333333337,-711.6666666666666,buldhana,maharashtra
+jalgaon jamod,maize,2015,-341.27272727272725,-362.9090909090909,buldhana,maharashtra
+jalgaon jamod,maize,2016,-285.25,-472.875,buldhana,maharashtra
+buldhana,sorgum(jawar),2014,-400.0,-958.0,buldhana,maharashtra
+buldhana,sorgum(jawar),2015,-436.4000000000001,-545.7,buldhana,maharashtra
+buldhana,sorgum(jawar),2016,-395.79999999999995,-540.2,buldhana,maharashtra
+akkolkot,paddy-unhusked,2016,-769.0,-769.0,solapur,maharashtra
+umared,wheat(husked),2014,50.0,-470.25,nagpur,maharashtra
+umared,wheat(husked),2015,-28.083333333333258,-46.33333333333326,nagpur,maharashtra
+washi(osmanabad),sunflower,2015,-910.0,-910.0,osmanabad,maharashtra
+akkolkot,bajri,2014,110.0,-389.0,solapur,maharashtra
+akkolkot,bajri,2016,66.33333333333326,-9.333333333333258,solapur,maharashtra
+palghar(bevur),paddy-unhusked,2016,-60.0,-60.0,thane,maharashtra
+lonand,bajri,2014,28.666666666666742,-444.33333333333337,satara,maharashtra
+kalmeshwar,wheat(husked),2014,0.0,-725.0,nagpur,maharashtra
+kalmeshwar,wheat(husked),2015,-85.66666666666674,-201.33333333333326,nagpur,maharashtra
+barshi-vairag,paddy-unhusked,2014,-560.0,-560.0,solapur,maharashtra
+barshi-vairag,paddy-unhusked,2015,-24.0,-24.0,solapur,maharashtra
+barshi-vairag,paddy-unhusked,2016,-169.0,-169.0,solapur,maharashtra
+jalna,sorgum(jawar),2014,-400.0,-798.25,jalna,maharashtra
+jalna,sorgum(jawar),2015,-387.41666666666674,-405.41666666666674,jalna,maharashtra
+jalna,sorgum(jawar),2016,-240.70000000000005,-491.70000000000005,jalna,maharashtra
+shegaon,sorgum(jawar),2014,-466.5,-744.25,buldhana,maharashtra
+shegaon,sorgum(jawar),2015,-429.75,-436.83333333333326,buldhana,maharashtra
+shegaon,sorgum(jawar),2016,-335.18181818181824,-467.72727272727275,buldhana,maharashtra
+parli-vaijnath,sunflower,2014,-942.5,-942.5,beed,maharashtra
+parli-vaijnath,sunflower,2015,-621.25,-621.25,beed,maharashtra
+parli-vaijnath,sunflower,2016,-465.5,-465.5,beed,maharashtra
+indapur (nimgaon ketki),sunflower,2016,-849.0,-849.0,pune,maharashtra
+akola,mustard,2015,-294.5,-294.5,akola,maharashtra
+kalvan,pigeon pea (tur),2014,-1300.0,-1300.0,nasik,maharashtra
+washim,safflower,2014,-550.0,-550.0,wasim,maharashtra
+washim,safflower,2015,-1469.75,-1469.75,wasim,maharashtra
+patur,pigeon pea (tur),2014,0.0,-1823.0,akola,maharashtra
+bhivandi,rice(paddy-hus),2014,26.0,-438.0,thane,maharashtra
+beed,sorgum(jawar),2014,96.5,-110.5,beed,maharashtra
+beed,sorgum(jawar),2016,-10.099999999999909,-14.200000000000045,beed,maharashtra
+umarga,gr.nut kernels,2014,-1299.0,-1299.0,osmanabad,maharashtra
+umarga,gr.nut kernels,2015,-1470.0,-1470.0,osmanabad,maharashtra
+amarawati,wheat(husked),2014,132.0,-173.33333333333326,amaravathi,maharashtra
+chandur rly.,wheat(husked),2014,-62.5,-563.0,amaravathi,maharashtra
+chandur rly.,wheat(husked),2015,-21.0,-106.0,amaravathi,maharashtra
+ausa,safflower,2014,-736.0,-1311.75,latur,maharashtra
+ausa,safflower,2015,-844.5833333333335,-858.75,latur,maharashtra
+lohara,safflower,2015,-599.0,-599.0,osmanabad,maharashtra
+nampur,sunflower,2016,-1100.0,-1100.0,nasik,maharashtra
+kille dharur,sorgum(jawar),2014,142.5,-336.25,beed,maharashtra
+kille dharur,sorgum(jawar),2016,52.818181818181756,-143.0,beed,maharashtra
+kada,sunflower,2014,-918.0,-918.0,beed,maharashtra
+kada,sunflower,2015,-683.1999999999998,-683.1999999999998,beed,maharashtra
+kada,sunflower,2016,-1224.0,-1224.0,beed,maharashtra
+savner,pigeon pea (tur),2014,-55.75,-1290.0,nagpur,maharashtra
+kille dharur,bajri,2014,139.0,-339.75,beed,maharashtra
+kalamnuri,mustard,2015,-250.0,-250.0,hingoli,maharashtra
+sindkhed raja,sorgum(jawar),2015,-50.0,-50.0,buldhana,maharashtra
+sindkhed raja,sorgum(jawar),2016,-248.8888888888889,-248.8888888888889,buldhana,maharashtra
+pathardi,sorgum(jawar),2014,-8.333333333333258,-608.6666666666666,ahmadnagar,maharashtra
+pathardi,sorgum(jawar),2015,-50.66666666666674,-105.58333333333326,ahmadnagar,maharashtra
+pathardi,sorgum(jawar),2016,-50.72727272727275,-293.27272727272725,ahmadnagar,maharashtra
+parli-vaijnath,sorgum(jawar),2014,-170.0,-634.25,beed,maharashtra
+parli-vaijnath,sorgum(jawar),2015,-124.0,-152.66666666666674,beed,maharashtra
+parli-vaijnath,sorgum(jawar),2016,-75.70000000000005,-326.29999999999995,beed,maharashtra
+pandharkawada,sorgum(jawar),2015,-490.0,-490.0,yewatmal,maharashtra
+pandharkawada,sorgum(jawar),2016,-165.0,-165.0,yewatmal,maharashtra
+jintur-bori,sorgum(jawar),2014,-343.25,-679.75,parbhani,maharashtra
+jintur-bori,sorgum(jawar),2015,-378.66666666666674,-363.44444444444434,parbhani,maharashtra
+jintur-bori,sorgum(jawar),2016,-190.66666666666674,-500.0,parbhani,maharashtra
+katol,sorgum(jawar),2014,-325.5,-859.5,nagpur,maharashtra
+katol,sorgum(jawar),2015,-447.9000000000001,-493.5999999999999,nagpur,maharashtra
+katol,sorgum(jawar),2016,-331.090909090909,-505.18181818181824,nagpur,maharashtra
+washim-ansing,sorgum(jawar),2016,-373.66666666666674,-511.0,wasim,maharashtra
+mohol,pigeon pea (tur),2014,-1114.0,-1272.0,solapur,maharashtra
+nanded,wheat(husked),2014,87.25,-466.25,nanded,maharashtra
+nanded,wheat(husked),2015,-17.0,-34.454545454545496,nanded,maharashtra
+alibag,rice(paddy-hus),2014,100.0,-87.5,raigad,maharashtra
+parli-vaijnath,maize,2014,-10.0,-10.0,beed,maharashtra
+latur-murud,sunflower,2015,-763.0,-763.0,latur,maharashtra
+latur-murud,sunflower,2016,-824.75,-824.75,latur,maharashtra
+akluj,wheat(husked),2014,92.5,-330.25,solapur,maharashtra
+naigaon,sorgum(jawar),2014,-427.66666666666674,-769.3333333333334,nanded,maharashtra
+naigaon,sorgum(jawar),2015,-427.0,-398.16666666666674,nanded,maharashtra
+naigaon,sorgum(jawar),2016,-280.33333333333326,-478.33333333333326,nanded,maharashtra
+devala,wheat(husked),2014,63.75,-370.75,nasik,maharashtra
+devala,wheat(husked),2015,-84.16666666666674,-81.16666666666674,nasik,maharashtra
+latur,wheat(husked),2014,84.5,-439.75,latur,maharashtra
+latur,wheat(husked),2015,29.916666666666742,-1.0,latur,maharashtra
+shahada,sunflower,2015,-519.0,-519.0,nandurbar,maharashtra
+dudhani,sorgum(jawar),2014,-437.75,-801.75,solapur,maharashtra
+dudhani,sorgum(jawar),2015,-77.41666666666674,-93.08333333333326,solapur,maharashtra
+dudhani,sorgum(jawar),2016,268.18181818181824,-29.09090909090901,solapur,maharashtra
+barshi,sorgum(jawar),2014,-197.0,-644.25,solapur,maharashtra
+barshi,sorgum(jawar),2015,-48.91666666666674,-84.75,solapur,maharashtra
+barshi,sorgum(jawar),2016,9.0,-232.81818181818176,solapur,maharashtra
+barshi-vairag,pigeon pea (tur),2014,-130.5,-1456.75,solapur,maharashtra
+katol,maize,2015,-182.83333333333326,-182.83333333333326,nagpur,maharashtra
+katol,maize,2016,-128.1428571428571,-128.1428571428571,nagpur,maharashtra
+sillod,maize,2014,-410.0,-632.0,aurangabad,maharashtra
+sillod,maize,2015,-81.0,-141.33333333333326,aurangabad,maharashtra
+sillod,maize,2016,0.5,-62.799999999999955,aurangabad,maharashtra
+lasalgaon-niphad,wheat(husked),2015,-116.0,-116.0,nasik,maharashtra
+dharni,sorgum(jawar),2015,-490.0,-490.0,amaravathi,maharashtra
+dharni,sorgum(jawar),2016,-258.63636363636374,-258.63636363636374,amaravathi,maharashtra
+mehkar,sorgum(jawar),2014,-449.0,-859.0,buldhana,maharashtra
+mehkar,sorgum(jawar),2015,-522.3,-534.3,buldhana,maharashtra
+mehkar,sorgum(jawar),2016,-308.090909090909,-436.63636363636374,buldhana,maharashtra
+kurdwadi,wheat(husked),2014,-33.0,-518.6666666666666,solapur,maharashtra
+sindi,wheat(husked),2015,-263.83333333333326,-263.83333333333326,wardha,maharashtra
+yawal,maize,2014,-102.0,-640.0,jalgaon,maharashtra
+yawal,maize,2015,-207.5,-393.0,jalgaon,maharashtra
+yawal,maize,2016,-294.72727272727275,-378.5454545454545,jalgaon,maharashtra
+akole,maize,2014,65.0,-623.0,ahmadnagar,maharashtra
+chandvad,maize,2016,-91.33333333333326,-91.33333333333326,nasik,maharashtra
+anajngaon surji,sorgum(jawar),2014,-235.75,-692.5,amaravathi,maharashtra
+anajngaon surji,sorgum(jawar),2015,-337.41666666666674,-359.91666666666674,amaravathi,maharashtra
+anajngaon surji,sorgum(jawar),2016,-421.79999999999995,-622.2,amaravathi,maharashtra
+barshi,sunflower,2014,-647.3333333333335,-1160.0,solapur,maharashtra
+barshi,sunflower,2015,-244.0,-283.8333333333335,solapur,maharashtra
+barshi,sunflower,2016,-995.3333333333335,-837.3333333333335,solapur,maharashtra
+barshi,maize,2014,-178.75,-493.5,solapur,maharashtra
+barshi,maize,2015,-26.916666666666742,-29.083333333333258,solapur,maharashtra
+barshi,maize,2016,114.27272727272725,-23.454545454545496,solapur,maharashtra
+chikhali,sesamum,2016,-250.0,-250.0,buldhana,maharashtra
+rahata,pigeon pea (tur),2014,-1300.0,-1300.0,ahmadnagar,maharashtra
+parli-vaijnath,safflower,2014,-950.0,-2000.0,beed,maharashtra
+parli-vaijnath,safflower,2015,-694.5,-872.5,beed,maharashtra
+akole,wheat(husked),2014,32.25,-434.75,ahmadnagar,maharashtra
+akole,wheat(husked),2015,-56.63636363636374,-54.90909090909099,ahmadnagar,maharashtra
+dharni,maize,2015,-225.0,-225.0,amaravathi,maharashtra
+dharni,maize,2016,-60.5,-60.5,amaravathi,maharashtra
+aheri,maize,2014,-128.5,-641.5,gadchiroli,maharashtra
+aheri,maize,2015,-138.33333333333326,-214.0,gadchiroli,maharashtra
+aheri,maize,2016,-45.111111111111086,-220.44444444444434,gadchiroli,maharashtra
+mangalwedha,wheat(husked),2014,-30.75,-524.5,solapur,maharashtra
+sangrampur-varvatbakal,maize,2015,-307.0,-307.0,buldhana,maharashtra
+sangrampur-varvatbakal,maize,2016,-238.75,-238.75,buldhana,maharashtra
+rahuri-vambori,sorgum(jawar),2014,159.5,-570.75,ahmadnagar,maharashtra
+rahuri-vambori,sorgum(jawar),2015,-255.33333333333326,-237.0,ahmadnagar,maharashtra
+rahuri-vambori,sorgum(jawar),2016,-131.72727272727275,-369.36363636363626,ahmadnagar,maharashtra
+sinner,wheat(husked),2014,120.25,-451.5,nasik,maharashtra
+sinner,wheat(husked),2015,-7.0,-18.833333333333258,nasik,maharashtra
+phaltan,sorgum(jawar),2014,32.5,-465.75,satara,maharashtra
+phaltan,sorgum(jawar),2015,-43.0,-42.0,satara,maharashtra
+phaltan,sorgum(jawar),2016,-57.181818181818244,-170.72727272727275,satara,maharashtra
+pachora,sorgum(jawar),2015,-310.5,-310.5,jalgaon,maharashtra
+pachora,sorgum(jawar),2016,-189.55555555555566,-189.55555555555566,jalgaon,maharashtra
+lasur station,wheat(husked),2014,104.33333333333326,-499.33333333333337,aurangabad,maharashtra
+lasur station,wheat(husked),2015,-83.5,-93.75,aurangabad,maharashtra
+jintur-bori,safflower,2014,-701.0,-701.0,parbhani,maharashtra
+jintur-bori,safflower,2015,-722.0,-722.0,parbhani,maharashtra
+lasalgaon-niphad,maize,2015,-80.0,-80.0,nasik,maharashtra
+yeotmal,pigeon pea (tur),2014,121.5,-1201.5,yewatmal,maharashtra
+akot,wheat(husked),2015,-162.33333333333326,-383.1111111111111,akola,maharashtra
+shirur,sunflower,2016,-1250.0,-1250.0,pune,maharashtra
+navapur,sorgum(jawar),2014,-150.0,-900.0,nandurbar,maharashtra
+navapur,sorgum(jawar),2015,-365.0,-468.5,nandurbar,maharashtra
+navapur,sorgum(jawar),2016,-208.44444444444434,-243.0,nandurbar,maharashtra
+barshi-vairag,bajri,2015,-23.0,-23.0,solapur,maharashtra
+barshi-vairag,bajri,2016,-190.0,-190.0,solapur,maharashtra
+sengaon,wheat(husked),2015,64.66666666666674,-196.66666666666674,hingoli,maharashtra
+shrirampur-belapur,sorgum(jawar),2015,-532.5,-532.5,ahmadnagar,maharashtra
+shrirampur-belapur,sorgum(jawar),2016,-142.79999999999995,-142.79999999999995,ahmadnagar,maharashtra
+washim,sorgum(jawar),2014,-255.0,-666.25,wasim,maharashtra
+washim,sorgum(jawar),2015,-365.9000000000001,-361.5,wasim,maharashtra
+washim,sorgum(jawar),2016,-394.79999999999995,-481.5,wasim,maharashtra
+bhokardan-pimpalgaon renu,sorgum(jawar),2014,-326.75,-724.5,jalna,maharashtra
+bhokardan-pimpalgaon renu,sorgum(jawar),2015,-415.81818181818176,-409.81818181818176,jalna,maharashtra
+bhokardan-pimpalgaon renu,sorgum(jawar),2016,-180.20000000000005,-320.4000000000001,jalna,maharashtra
+kalamb (os),safflower,2014,-706.75,-1438.0,osmanabad,maharashtra
+kalamb (os),safflower,2015,-835.75,-894.0833333333335,osmanabad,maharashtra
+udgir,wheat(husked),2014,-200.0,-200.0,latur,maharashtra
+udgir,wheat(husked),2015,-222.8888888888889,-222.8888888888889,latur,maharashtra
+achalpur,mustard,2015,-169.66666666666652,-169.66666666666652,amaravathi,maharashtra
+sailu,pigeon pea (tur),2014,-60.25,-1211.0,parbhani,maharashtra
+sangamner,sorgum(jawar),2014,155.0,-425.5,ahmadnagar,maharashtra
+sangamner,sorgum(jawar),2016,81.27272727272725,-182.090909090909,ahmadnagar,maharashtra
+malegaon (washim),wheat(husked),2015,-65.66666666666674,-65.66666666666674,wasim,maharashtra
+sakri,wheat(husked),2014,-160.0,-604.0,dhule,maharashtra
+sakri,wheat(husked),2015,-214.83333333333326,-219.33333333333326,dhule,maharashtra
+chandur bajar,sorgum(jawar),2014,-249.33333333333326,-749.0,amaravathi,maharashtra
+chandur bajar,sorgum(jawar),2015,-356.25,-389.25,amaravathi,maharashtra
+chandur bajar,sorgum(jawar),2016,-352.909090909091,-515.6363636363637,amaravathi,maharashtra
+nandurbar,sorgum(jawar),2014,-323.25,-707.0,nandurbar,maharashtra
+nandurbar,sorgum(jawar),2015,-317.4545454545455,-340.090909090909,nandurbar,maharashtra
+nandurbar,sorgum(jawar),2016,-319.0,-527.6363636363637,nandurbar,maharashtra
+parola,wheat(husked),2015,-158.5,-734.5,jalgaon,maharashtra
+lasalgaon,bajri,2014,-78.25,-225.5,nasik,maharashtra
+lasalgaon,bajri,2015,-13.0,-19.75,nasik,maharashtra
+jalna,pigeon pea (tur),2014,-34.75,-1403.25,jalna,maharashtra
+dound,maize,2014,-153.5,-490.0,pune,maharashtra
+chopda,maize,2014,-354.75,-489.75,jalgaon,maharashtra
+chopda,maize,2015,-196.75,-207.41666666666674,jalgaon,maharashtra
+chopda,maize,2016,-126.0,-182.70000000000005,jalgaon,maharashtra
+rahuri,bajri,2014,91.0,-12.25,ahmadnagar,maharashtra
+nandura,pigeon pea (tur),2014,-25.0,-1266.5,buldhana,maharashtra
+bhokardan-pimpalgaon renu,maize,2014,-224.33333333333326,-445.0,jalna,maharashtra
+bhokardan-pimpalgaon renu,maize,2015,-138.91666666666674,-141.16666666666674,jalna,maharashtra
+bhokardan-pimpalgaon renu,maize,2016,28.727272727272748,-35.27272727272725,jalna,maharashtra
+kopargaon,maize,2014,-313.25,-610.0,ahmadnagar,maharashtra
+kopargaon,maize,2015,-104.25,-123.91666666666674,ahmadnagar,maharashtra
+kopargaon,maize,2016,3.400000000000091,-89.90000000000009,ahmadnagar,maharashtra
+ahmedpur,sorgum(jawar),2014,-593.0,-815.0,latur,maharashtra
+ahmedpur,sorgum(jawar),2015,-1.5714285714286689,-222.71428571428578,latur,maharashtra
+ahmedpur,sorgum(jawar),2016,-159.81818181818176,-266.090909090909,latur,maharashtra
+latur-murud,safflower,2015,-800.0,-2050.0,latur,maharashtra
+lohara,maize,2015,-25.0,-25.0,osmanabad,maharashtra
+hingoli,pigeon pea (tur),2014,-8.66666666666697,-1385.6666666666665,hingoli,maharashtra
+ahmedpur,bajri,2014,-139.0,-664.0,latur,maharashtra
+ahmedpur,bajri,2015,-60.75,-287.75,latur,maharashtra
+ahmedpur,bajri,2016,-4.272727272727252,-90.90909090909099,latur,maharashtra
+sangali,bajri,2014,66.25,-305.25,sangli,maharashtra
+manmad,sorgum(jawar),2016,-62.5,-181.70000000000005,nasik,maharashtra
+yeola,wheat(husked),2014,63.75,-520.75,nasik,maharashtra
+yeola,wheat(husked),2015,-34.25,-60.5,nasik,maharashtra
+sindevahi,paddy-unhusked,2014,1218.0,-339.0,chandrapur,maharashtra
+sailu,cotton,2014,230.0,-1244.0,parbhani,maharashtra
+sailu,cotton,2016,188.33333333333348,-408.8333333333335,parbhani,maharashtra
+pusad,bajri,2014,239.0,-377.66666666666663,yewatmal,maharashtra
+kopargaon,sorgum(jawar),2014,-72.66666666666674,-698.3333333333334,ahmadnagar,maharashtra
+kopargaon,sorgum(jawar),2015,-376.75,-361.0,ahmadnagar,maharashtra
+kopargaon,sorgum(jawar),2016,-142.20000000000005,-281.70000000000005,ahmadnagar,maharashtra
+tumsar,wheat(husked),2014,-124.5,-403.25,bhandara,maharashtra
+tumsar,wheat(husked),2015,-164.42857142857133,-159.28571428571422,bhandara,maharashtra
+kopargaon,bajri,2014,-74.0,-534.5,ahmadnagar,maharashtra
+kopargaon,bajri,2015,-18.818181818181756,-42.454545454545496,ahmadnagar,maharashtra
+kopargaon,bajri,2016,135.0,-37.5,ahmadnagar,maharashtra
+bhusaval,bajri,2014,39.0,-369.66666666666663,jalgaon,maharashtra
+bhusaval,bajri,2015,-93.79999999999995,-8.400000000000091,jalgaon,maharashtra
+lohara,sorgum(jawar),2015,372.0,-609.0,osmanabad,maharashtra
+indapur,sorgum(jawar),2015,17.5,-187.875,pune,maharashtra
+rahuri,maize,2014,-27.5,-237.0,ahmadnagar,maharashtra
+rahuri,maize,2015,8.0,-79.59999999999991,ahmadnagar,maharashtra
+varud-rajura bazar,wheat(husked),2014,-51.5,-348.25,amaravathi,maharashtra
+varud-rajura bazar,wheat(husked),2015,-114.59999999999991,-112.29999999999995,amaravathi,maharashtra
+ausa,sorgum(jawar),2014,-154.25,-594.5,latur,maharashtra
+ausa,sorgum(jawar),2015,6.36363636363626,-53.0,latur,maharashtra
+ausa,sorgum(jawar),2016,-132.5454545454545,-335.36363636363626,latur,maharashtra
+nilanga,sorgum(jawar),2014,-524.0,-679.3333333333334,latur,maharashtra
+nilanga,sorgum(jawar),2015,-333.33333333333326,-369.16666666666674,latur,maharashtra
+nilanga,sorgum(jawar),2016,-353.625,-435.75,latur,maharashtra
+jamner-neri,maize,2016,-18.555555555555657,-18.555555555555657,jalgaon,maharashtra
+shrirampur,rice(paddy-hus),2014,-383.0,-383.0,ahmadnagar,maharashtra
+shrirampur,rice(paddy-hus),2015,-214.0,-214.0,ahmadnagar,maharashtra
+balapur,sorgum(jawar),2015,-373.66666666666674,-524.0833333333333,akola,maharashtra
+balapur,sorgum(jawar),2016,-381.090909090909,-546.090909090909,akola,maharashtra
+amarawati,sunflower,2015,-270.6666666666665,-270.6666666666665,amaravathi,maharashtra
+majalgaon,sunflower,2014,-925.0,-1650.0,beed,maharashtra
+majalgaon,sunflower,2015,-700.0,-801.0,beed,maharashtra
+majalgaon,sunflower,2016,-761.5,-787.0,beed,maharashtra
+gangakhed,cotton,2014,300.0,-1715.0,parbhani,maharashtra
+gangakhed,cotton,2015,296.5,-227.5,parbhani,maharashtra
+nandgaon,bajri,2014,-64.0,-64.0,nasik,maharashtra
+ausa,paddy-unhusked,2014,-459.33333333333337,-681.6666666666666,latur,maharashtra
+ausa,paddy-unhusked,2015,-690.5,-671.6666666666666,latur,maharashtra
+ausa,paddy-unhusked,2016,-636.3333333333334,-765.6666666666666,latur,maharashtra
+baramati,sunflower,2014,-751.0,-1781.0,pune,maharashtra
+baramati,sunflower,2015,-764.5555555555557,-805.4444444444443,pune,maharashtra
+baramati,sunflower,2016,-845.3333333333335,-1372.3333333333335,pune,maharashtra
+pusad,maize,2014,-79.0,-79.0,yewatmal,maharashtra
+bodwad-varangaon,maize,2016,-201.5,-201.5,jalgaon,maharashtra
+umared,sunflower,2015,-863.0,-863.0,nagpur,maharashtra
+umared,sunflower,2016,-738.0,-738.0,nagpur,maharashtra
+lohara,sunflower,2015,-512.0,-512.0,osmanabad,maharashtra
+lohara,sunflower,2016,-331.0,-331.0,osmanabad,maharashtra
+ausa,sunflower,2014,-981.6666666666665,-2035.3333333333333,latur,maharashtra
+ausa,sunflower,2015,-689.5,-826.9166666666665,latur,maharashtra
+ausa,sunflower,2016,-822.0,-1209.7777777777778,latur,maharashtra
+goregaon,paddy-unhusked,2016,-43.5,-43.5,gondiya,maharashtra
+rahata,bajri,2014,44.5,-419.75,ahmadnagar,maharashtra
+rahata,bajri,2015,-34.08333333333326,-29.583333333333258,ahmadnagar,maharashtra
+rahata,bajri,2016,173.20000000000005,-97.5,ahmadnagar,maharashtra
+mohol,wheat(husked),2014,-31.0,-239.75,solapur,maharashtra
+taloda,wheat(husked),2014,32.66666666666674,-472.33333333333337,nandurbar,maharashtra
+taloda,wheat(husked),2015,-52.90000000000009,-66.79999999999995,nandurbar,maharashtra
+hinganghat,pigeon pea (tur),2014,58.75,-1013.75,wardha,maharashtra
+sangali,sorgum(jawar),2014,78.75,-473.0,sangli,maharashtra
+sangali,sorgum(jawar),2016,81.79999999999995,-210.29999999999995,sangli,maharashtra
+mantha,wheat(husked),2014,-13.5,-474.5,jalna,maharashtra
+mantha,wheat(husked),2015,-98.625,-90.875,jalna,maharashtra
+pavani,wheat(husked),2014,-50.0,-164.0,bhandara,maharashtra
+washim,paddy-unhusked,2014,-173.5,-173.5,wasim,maharashtra
+washim,paddy-unhusked,2015,-99.40000000000009,-99.40000000000009,wasim,maharashtra
+washim,paddy-unhusked,2016,-270.0,-270.0,wasim,maharashtra
+balapur,maize,2015,-225.0,-225.0,akola,maharashtra
+majalgaon,sorgum(jawar),2014,-455.25,-840.5,beed,maharashtra
+majalgaon,sorgum(jawar),2015,-409.83333333333326,-430.16666666666674,beed,maharashtra
+majalgaon,sorgum(jawar),2016,-231.18181818181824,-454.909090909091,beed,maharashtra
+jamner,cotton,2014,16.5,-1335.0,jalgaon,maharashtra
+jamner,cotton,2016,462.0,-102.85714285714266,jalgaon,maharashtra
+jalgaon,maize,2014,-224.0,-555.0,jalgaon,maharashtra
+jalgaon,maize,2015,-104.41666666666674,-125.75,jalgaon,maharashtra
+jalgaon,maize,2016,-6.875,-127.125,jalgaon,maharashtra
+jafrabad,cotton,2014,94.5,-1322.0,jalna,maharashtra
+jafrabad,cotton,2015,-316.85714285714266,-368.7142857142858,jalna,maharashtra
+jafrabad,cotton,2016,-159.5999999999999,-776.5999999999999,jalna,maharashtra
+kej,wheat(husked),2014,49.0,-359.0,beed,maharashtra
+kalamb (os),paddy-unhusked,2016,-320.0,-320.0,osmanabad,maharashtra
+bhiwapur,wheat(husked),2015,-236.25,-236.25,nagpur,maharashtra
+bhusaval,sorgum(jawar),2014,-417.33333333333326,-852.0,jalgaon,maharashtra
+bhusaval,sorgum(jawar),2015,-400.08333333333326,-454.83333333333326,jalgaon,maharashtra
+bhusaval,sorgum(jawar),2016,-311.5,-497.0999999999999,jalgaon,maharashtra
+gevrai,cotton,2014,82.33333333333348,-1266.3333333333335,beed,maharashtra
+gevrai,cotton,2015,-54.375,-79.125,beed,maharashtra
+gevrai,cotton,2016,294.57142857142844,-411.42857142857156,beed,maharashtra
+chopda,wheat(husked),2014,-1.25,-453.5,jalgaon,maharashtra
+chopda,wheat(husked),2015,-142.0,-141.25,jalgaon,maharashtra
+sindkhed raja,maize,2015,-15.0,-15.0,buldhana,maharashtra
+sindkhed raja,maize,2016,-245.0,-245.0,buldhana,maharashtra
+dound,wheat(husked),2014,93.0,-375.5,pune,maharashtra
+dound,wheat(husked),2015,-6.3333333333332575,-2.7777777777778283,pune,maharashtra
+jalgaon-masawat,maize,2016,-279.0,-387.33333333333337,jalgaon,maharashtra
+sailu,safflower,2015,-579.0,-579.0,parbhani,maharashtra
+aarni,pigeon pea (tur),2014,-190.0,-1343.0,yewatmal,maharashtra
+akhadabalapur,wheat(husked),2014,340.75,-285.25,hingoli,maharashtra
+shrirampur,bajri,2014,16.0,-386.25,ahmadnagar,maharashtra
+jalgaon jamod,sorgum(jawar),2014,-350.0,-717.5,buldhana,maharashtra
+jalgaon jamod,sorgum(jawar),2015,-405.625,-393.875,buldhana,maharashtra
+jalgaon jamod,sorgum(jawar),2016,-395.75,-657.0,buldhana,maharashtra
+jamner,sorgum(jawar),2015,-20.0,-20.0,jalgaon,maharashtra
+daryapur,wheat(husked),2015,-217.5,-503.0,amaravathi,maharashtra
+mangalwedha,bajri,2014,85.5,-112.75,solapur,maharashtra
+shrirampur,sorgum(jawar),2014,34.5,-564.25,ahmadnagar,maharashtra
+shrirampur,sorgum(jawar),2015,-95.83333333333326,-113.0,ahmadnagar,maharashtra
+shrirampur,sorgum(jawar),2016,-83.27272727272725,-308.27272727272725,ahmadnagar,maharashtra
+indapur-bhigwan,wheat(husked),2014,0.0,-506.0,pune,maharashtra
+indapur-bhigwan,wheat(husked),2015,-51.66666666666674,-76.44444444444434,pune,maharashtra
+nampur,maize,2016,-63.09999999999991,-63.09999999999991,nasik,maharashtra
+kurdwadi-modnimb,wheat(husked),2015,-71.08333333333326,-137.08333333333326,solapur,maharashtra
+paranda,maize,2015,-50.25,-50.25,osmanabad,maharashtra
+paranda,maize,2016,-65.0,-65.0,osmanabad,maharashtra
+sillod-bharadi,wheat(husked),2014,-100.0,-625.0,aurangabad,maharashtra
+sillod-bharadi,wheat(husked),2015,-49.66666666666674,-266.0,aurangabad,maharashtra
+talegaon dabhade,sorgum(jawar),2016,-864.0,-864.0,pune,maharashtra
+tumsar,pigeon pea (tur),2014,-828.5,-1407.0,bhandara,maharashtra
+parshiwani,cotton,2014,81.0,-1738.0,nagpur,maharashtra
+parshiwani,cotton,2015,419.0,-662.0,nagpur,maharashtra
+lonand,maize,2014,75.5,-362.25,satara,maharashtra
+jintur-bori,pigeon pea (tur),2014,-151.75,-1435.25,parbhani,maharashtra
+tuljapur,sorgum(jawar),2014,-266.0,-444.5,osmanabad,maharashtra
+tuljapur,sorgum(jawar),2015,-137.91666666666674,-149.5,osmanabad,maharashtra
+shirpur,pigeon pea (tur),2014,-749.6666666666665,-1737.0,dhule,maharashtra
+sinner,pigeon pea (tur),2014,-1243.5,-2216.75,nasik,maharashtra
+sinner,pigeon pea (tur),2015,-393.0999999999999,-419.0,nasik,maharashtra
+shrirampur,maize,2014,-85.33333333333326,-381.66666666666663,ahmadnagar,maharashtra
+shrirampur,maize,2015,-149.08333333333326,-149.16666666666674,ahmadnagar,maharashtra
+shrirampur,maize,2016,-51.59999999999991,-116.5,ahmadnagar,maharashtra
+mangalwedha,maize,2014,-122.75,-458.25,solapur,maharashtra
+akola,pigeon pea (tur),2014,270.33333333333303,-1462.6666666666665,akola,maharashtra
+rahuri-vambori,safflower,2014,-851.0,-851.0,ahmadnagar,maharashtra
+rahuri-vambori,safflower,2015,-800.0,-800.0,ahmadnagar,maharashtra
+jalgaon jamod,sunflower,2015,-1000.0,-1000.0,buldhana,maharashtra
+kalamnuri,cotton,2014,469.0,-221.0,hingoli,maharashtra
+kalamnuri,cotton,2016,640.0,-906.0,hingoli,maharashtra
+jalna,sunflower,2014,-1350.0,-2550.0,jalna,maharashtra
+jalna,sunflower,2015,-971.75,-1022.0,jalna,maharashtra
+jalna,sunflower,2016,-750.0,-900.0,jalna,maharashtra
+rahuri-vambori,sunflower,2014,-953.0,-953.0,ahmadnagar,maharashtra
+rahuri-vambori,sunflower,2015,-838.0,-838.0,ahmadnagar,maharashtra
+rahuri-vambori,sunflower,2016,-1011.1999999999998,-1011.1999999999998,ahmadnagar,maharashtra
+akot,maize,2015,-275.2857142857142,-466.71428571428567,akola,maharashtra
+akot,maize,2016,-187.66666666666674,-292.44444444444434,akola,maharashtra
+latur-murud,wheat(husked),2015,-138.57142857142867,-190.8571428571429,latur,maharashtra
+panvel,rice(paddy-hus),2016,-100.0,-100.0,raigad,maharashtra
+ambejogai,wheat(husked),2014,114.75,-352.5,beed,maharashtra
+malegaon,maize,2014,-251.25,-466.0,nasik,maharashtra
+malegaon,maize,2015,-152.66666666666674,-158.75,nasik,maharashtra
+jalgaon jamod,pigeon pea (tur),2014,-361.0,-1666.0,buldhana,maharashtra
+vasai,paddy-unhusked,2014,96.5,-439.0,thane,maharashtra
+vasai,paddy-unhusked,2016,-0.40000000000009095,-250.20000000000005,thane,maharashtra
+vaduj,bajri,2014,147.0,-376.25,satara,maharashtra
+mandhal,sunflower,2016,-23.5,-23.5,nagpur,maharashtra
+chalisgaon,wheat(husked),2014,-58.66666666666674,-219.0,jalgaon,maharashtra
+chalisgaon,wheat(husked),2015,-95.875,-93.125,jalgaon,maharashtra
+gondiya,paddy-unhusked,2014,-1.0,-567.5,gondiya,maharashtra
+gondiya,paddy-unhusked,2015,3.888888888888914,-71.88888888888891,gondiya,maharashtra
+gondiya,paddy-unhusked,2016,73.36363636363626,-116.09090909090901,gondiya,maharashtra
+ambejogai,bajri,2014,210.0,-86.25,beed,maharashtra
+ambejogai,bajri,2016,157.33333333333326,-250.66666666666674,beed,maharashtra
+gevrai,safflower,2015,-1133.5,-1369.5,beed,maharashtra
+mahagaon,cotton,2014,83.5,-1346.5,yewatmal,maharashtra
+sakri,pigeon pea (tur),2014,-2147.6666666666665,-2147.6666666666665,dhule,maharashtra
+sakri,pigeon pea (tur),2016,-782.4285714285716,-782.4285714285716,dhule,maharashtra
+basmat,sorgum(jawar),2014,-50.0,-800.0,hingoli,maharashtra
+basmat,sorgum(jawar),2015,-425.0,-258.0,hingoli,maharashtra
+basmat,sorgum(jawar),2016,-365.0,-379.33333333333326,hingoli,maharashtra
+jafrabad,sorgum(jawar),2014,-658.5,-992.5,jalna,maharashtra
+jafrabad,sorgum(jawar),2015,-626.8,-628.1,jalna,maharashtra
+jafrabad,sorgum(jawar),2016,-573.3333333333333,-623.1666666666667,jalna,maharashtra
+kalvan,bajri,2014,-153.66666666666674,-364.66666666666663,nasik,maharashtra
+kalvan,bajri,2015,-58.08333333333326,-55.91666666666674,nasik,maharashtra
+baramati,safflower,2015,-649.6666666666665,-1141.6666666666665,pune,maharashtra
+solapur,bajri,2014,69.5,-236.25,solapur,maharashtra
+dondaicha-sindkheda,sesamum,2016,-844.0,-844.0,dhule,maharashtra
+bhokardan,sorgum(jawar),2014,-334.0,-727.5,jalna,maharashtra
+bhokardan,sorgum(jawar),2015,-422.4545454545455,-417.81818181818176,jalna,maharashtra
+bhokardan,sorgum(jawar),2016,-206.0,-334.4545454545455,jalna,maharashtra
+nira,sorgum(jawar),2015,4.444444444444343,-171.0,pune,maharashtra
+rahuri-vambori,maize,2014,-236.0,-529.3333333333334,ahmadnagar,maharashtra
+rahuri-vambori,maize,2015,-28.416666666666742,-38.83333333333326,ahmadnagar,maharashtra
+rahuri-vambori,maize,2016,-10.0,-169.28571428571422,ahmadnagar,maharashtra
+daryapur,sesamum,2016,-450.0,-450.0,amaravathi,maharashtra
+barshi,paddy-unhusked,2014,8.0,-454.0,solapur,maharashtra
+barshi,paddy-unhusked,2016,224.5454545454545,-53.36363636363626,solapur,maharashtra
+pulgaon,pigeon pea (tur),2014,-350.0,-2350.0,wardha,maharashtra
+chalisgaon,sesamum,2016,-349.0,-349.0,jalgaon,maharashtra
+pachora,maize,2015,-101.33333333333326,-101.33333333333326,jalgaon,maharashtra
+pachora,maize,2016,-97.44444444444434,-97.44444444444434,jalgaon,maharashtra
+mantha,safflower,2014,-830.0,-830.0,jalna,maharashtra
+mantha,safflower,2015,-775.0,-775.0,jalna,maharashtra
+dudhani,maize,2014,-258.66666666666674,-651.0,solapur,maharashtra
+dudhani,maize,2015,-41.454545454545496,-80.27272727272725,solapur,maharashtra
+dudhani,maize,2016,25.59999999999991,-51.40000000000009,solapur,maharashtra
+shirpur,sorgum(jawar),2014,-242.5,-703.75,dhule,maharashtra
+shirpur,sorgum(jawar),2015,-326.66666666666674,-331.0,dhule,maharashtra
+shirpur,sorgum(jawar),2016,-167.5454545454545,-406.63636363636374,dhule,maharashtra
+ambejogai,maize,2014,-35.0,-35.0,beed,maharashtra
+ambejogai,maize,2015,-68.0,-68.0,beed,maharashtra
+navapur,maize,2014,-310.0,-693.0,nandurbar,maharashtra
+navapur,maize,2015,27.0,-373.0,nandurbar,maharashtra
+navapur,maize,2016,-17.444444444444343,-91.0,nandurbar,maharashtra
+kej,bajri,2014,210.66666666666674,-327.0,beed,maharashtra
+kej,bajri,2016,10.5,-162.20000000000005,beed,maharashtra
+shahada,maize,2014,-259.75,-406.75,nandurbar,maharashtra
+shahada,maize,2015,-160.27272727272725,-169.090909090909,nandurbar,maharashtra
+shahada,maize,2016,-55.454545454545496,-113.0,nandurbar,maharashtra
+vaijapur,sunflower,2015,-516.5,-1467.0,aurangabad,maharashtra
+vaijapur,sunflower,2016,-482.3333333333335,-383.0,aurangabad,maharashtra
+amalner,bajri,2014,-98.33333333333326,-553.6666666666666,jalgaon,maharashtra
+amalner,bajri,2015,-46.33333333333326,-91.5,jalgaon,maharashtra
+amalner,bajri,2016,128.81818181818176,-4.63636363636374,jalgaon,maharashtra
+akkolkot,wheat(husked),2014,1.0,-483.0,solapur,maharashtra
+akkolkot,wheat(husked),2015,-98.33333333333326,-32.66666666666674,solapur,maharashtra
+vaijapur,safflower,2014,-550.0,-1800.0,aurangabad,maharashtra
+vaijapur,safflower,2015,-984.5999999999999,-834.8000000000002,aurangabad,maharashtra
+parli-vaijnath,wheat(husked),2014,-95.5,-504.0,beed,maharashtra
+parli-vaijnath,wheat(husked),2015,-99.29999999999995,-80.0,beed,maharashtra
+partur,sorgum(jawar),2014,-444.5,-887.5,jalna,maharashtra
+partur,sorgum(jawar),2015,-296.36363636363626,-394.81818181818176,jalna,maharashtra
+partur,sorgum(jawar),2016,0.3636363636362603,-226.909090909091,jalna,maharashtra
+ausa,mustard,2014,201.0,-1450.0,latur,maharashtra
+wardha,wheat(husked),2014,9.25,-497.25,wardha,maharashtra
+wardha,wheat(husked),2015,-66.0,-83.0,wardha,maharashtra
+sangamner,maize,2014,23.0,-361.0,ahmadnagar,maharashtra
+sangamner,maize,2016,102.14285714285711,-76.28571428571422,ahmadnagar,maharashtra
+malegaon,wheat(husked),2014,-43.25,-392.25,nasik,maharashtra
+malegaon,wheat(husked),2015,-63.36363636363626,-64.63636363636374,nasik,maharashtra
+barshi-vairag,sorgum(jawar),2014,-346.75,-787.5,solapur,maharashtra
+barshi-vairag,sorgum(jawar),2015,-100.75,-154.08333333333326,solapur,maharashtra
+barshi-vairag,sorgum(jawar),2016,76.55555555555566,-154.77777777777783,solapur,maharashtra
+lasalgaon-vinchur,wheat(husked),2015,-63.625,-193.875,nasik,maharashtra
+mukhed,sorgum(jawar),2015,-142.0,-142.0,nanded,maharashtra
+mukhed,sorgum(jawar),2016,-287.5,-287.5,nanded,maharashtra
+katol,wheat(husked),2014,39.66666666666674,-518.6666666666666,nagpur,maharashtra
+katol,wheat(husked),2015,-81.16666666666674,-95.91666666666674,nagpur,maharashtra
+ambad(vadi godri),maize,2014,-426.0,-426.0,jalna,maharashtra
+ambad(vadi godri),maize,2015,-257.66666666666674,-257.66666666666674,jalna,maharashtra
+ambad(vadi godri),maize,2016,-125.5,-125.5,jalna,maharashtra
+jalkot,sorgum(jawar),2015,-245.5,-498.75,latur,maharashtra
+jalkot,sorgum(jawar),2016,-146.63636363636374,-257.4545454545455,latur,maharashtra
+kalamb (os),bajri,2014,82.5,-313.75,osmanabad,maharashtra
+kalamb (os),bajri,2016,65.63636363636374,-8.090909090909008,osmanabad,maharashtra
+kej,maize,2014,52.0,-505.0,beed,maharashtra
+kej,maize,2015,116.57142857142867,-26.0,beed,maharashtra
+kej,maize,2016,84.79999999999995,-76.90000000000009,beed,maharashtra
+shevgaon-bodhegaon,sorgum(jawar),2014,-19.0,-599.25,ahmadnagar,maharashtra
+shevgaon-bodhegaon,sorgum(jawar),2015,-147.5,-149.5,ahmadnagar,maharashtra
+shevgaon-bodhegaon,sorgum(jawar),2016,-4.400000000000091,-285.0999999999999,ahmadnagar,maharashtra
+kej,pigeon pea (tur),2014,33.5,-1629.5,beed,maharashtra
+sindkhed raja,bajri,2015,-75.0,-75.0,buldhana,maharashtra
+kurdwadi,gr.nut kernels,2015,-205.0,-205.0,solapur,maharashtra
+ambad(vadi godri),bajri,2014,-22.5,-543.5,jalna,maharashtra
+ambad(vadi godri),bajri,2015,-92.57142857142867,-111.85714285714289,jalna,maharashtra
+ambad(vadi godri),bajri,2016,139.66666666666674,-52.111111111111086,jalna,maharashtra
+dondaicha,pigeon pea (tur),2014,-318.3333333333335,-1401.6666666666665,dhule,maharashtra
+majalgaon,safflower,2015,-800.0,-800.0,beed,maharashtra
+amarawati,maize,2014,-100.0,-568.0,amaravathi,maharashtra
+amarawati,maize,2015,-127.5,-136.5,amaravathi,maharashtra
+amarawati,maize,2016,85.63636363636374,-4.090909090909008,amaravathi,maharashtra
+washi(osmanabad),maize,2016,-45.0,-45.0,osmanabad,maharashtra
+jalgaon,wheat(husked),2014,-9.5,-454.0,jalgaon,maharashtra
+jalgaon,wheat(husked),2015,-99.4545454545455,-106.18181818181824,jalgaon,maharashtra
+maregaon,cotton,2015,-56.75,-56.75,yewatmal,maharashtra
+taloda,maize,2014,-324.0,-684.3333333333334,nandurbar,maharashtra
+taloda,maize,2015,-233.8888888888889,-273.8888888888889,nandurbar,maharashtra
+taloda,maize,2016,-180.75,-335.0,nandurbar,maharashtra
+bhusaval,maize,2014,-285.75,-475.5,jalgaon,maharashtra
+bhusaval,maize,2015,-191.875,-206.75,jalgaon,maharashtra
+bhusaval,maize,2016,-83.42857142857133,-116.0,jalgaon,maharashtra
+indapur,bajri,2014,250.0,-573.0,pune,maharashtra
+digras,bajri,2015,300.0,-88.0,yewatmal,maharashtra
+latur,bajri,2014,-139.33333333333326,-492.0,latur,maharashtra
+latur,bajri,2015,-25.444444444444343,-49.66666666666674,latur,maharashtra
+latur,bajri,2016,151.5454545454545,-41.0,latur,maharashtra
+sonpeth,pigeon pea (tur),2014,137.75,-1102.0,parbhani,maharashtra
+aurad shahajani,wheat(husked),2015,-265.0,-265.0,latur,maharashtra
+sillod-bharadi,bajri,2014,-150.0,-150.0,aurangabad,maharashtra
+sillod-bharadi,bajri,2015,-87.5,-87.5,aurangabad,maharashtra
+sillod,sunflower,2016,-1950.0,-1950.0,aurangabad,maharashtra
+murtizapur,wheat(husked),2014,-54.25,-169.75,akola,maharashtra
+murtizapur,wheat(husked),2015,-163.72727272727275,-163.090909090909,akola,maharashtra
+kalyan,paddy-unhusked,2016,-60.0,-60.0,thane,maharashtra
+savner,wheat(husked),2014,-82.0,-436.5,nagpur,maharashtra
+savner,wheat(husked),2015,-202.83333333333326,-199.75,nagpur,maharashtra
+deulgaon raja,sorgum(jawar),2016,-50.0,-50.0,buldhana,maharashtra
+sillod-bharadi,pigeon pea (tur),2014,-1300.0,-1300.0,aurangabad,maharashtra
+shirpur,sesamum,2014,2983.0,-608.0,dhule,maharashtra
+shirpur,sesamum,2016,-310.125,-775.625,dhule,maharashtra
+fulambri,maize,2014,-393.5,-393.5,aurangabad,maharashtra
+fulambri,maize,2015,-227.33333333333326,-227.33333333333326,aurangabad,maharashtra
+fulambri,maize,2016,-312.0,-312.0,aurangabad,maharashtra
+kalamb (os),wheat(husked),2014,-7.75,-384.0,osmanabad,maharashtra
+raver,maize,2014,-267.66666666666674,-660.6666666666666,jalgaon,maharashtra
+raver,maize,2015,-188.909090909091,-215.72727272727275,jalgaon,maharashtra
+raver,maize,2016,-99.5,-180.9000000000001,jalgaon,maharashtra
+kalmeshwar,cotton,2014,136.5,-1329.0,nagpur,maharashtra
+akot,sunflower,2015,-942.5,-1178.5,akola,maharashtra
+akot,sunflower,2016,-986.0,-1321.3333333333335,akola,maharashtra
+vaduj,maize,2014,9.0,-468.75,satara,maharashtra
+vaduj,maize,2016,155.4545454545455,-74.18181818181824,satara,maharashtra
+parli-vaijnath,bajri,2014,321.25,-188.5,beed,maharashtra
+gevrai,maize,2014,-137.0,-603.0,beed,maharashtra
+gevrai,maize,2015,-118.66666666666674,-132.91666666666674,beed,maharashtra
+gevrai,maize,2016,22.799999999999955,-80.0,beed,maharashtra
+dondaicha,bajri,2014,7.5,-487.25,dhule,maharashtra
+dondaicha,bajri,2015,-146.58333333333326,-127.25,dhule,maharashtra
+dondaicha,bajri,2016,-1.099999999999909,-230.4000000000001,dhule,maharashtra
+tadkalas,sorgum(jawar),2016,-35.0,-35.0,parbhani,maharashtra
+akola,wheat(husked),2014,-6.0,-626.3333333333334,akola,maharashtra
+akola,wheat(husked),2015,-106.20000000000005,-162.79999999999995,akola,maharashtra
+sindi (selu),sorgum(jawar),2016,-633.3333333333334,-633.3333333333334,wardha,maharashtra
+dondaicha,sorgum(jawar),2014,-71.5,-257.75,dhule,maharashtra
+dondaicha,sorgum(jawar),2015,-179.0,-191.83333333333326,dhule,maharashtra
+dondaicha,sorgum(jawar),2016,-136.20000000000005,-226.70000000000005,dhule,maharashtra
+katol,cotton,2014,119.0,-1346.5,nagpur,maharashtra
+hadgaon-tamsa,cotton,2015,489.0,-1656.0,nanded,maharashtra
+narkhed,cotton,2014,41.0,-1377.5,nagpur,maharashtra
+mudkhed,sorgum(jawar),2015,-398.0,-398.0,nanded,maharashtra
+mudkhed,sorgum(jawar),2016,-325.33333333333326,-325.33333333333326,nanded,maharashtra
+loha,pigeon pea (tur),2014,216.25,-673.5,nanded,maharashtra
+jalna-badnapur,sorgum(jawar),2014,-300.0,-300.0,jalna,maharashtra
+jalna-badnapur,sorgum(jawar),2015,-390.5,-390.5,jalna,maharashtra
+jalna-badnapur,sorgum(jawar),2016,-17.77777777777783,-17.77777777777783,jalna,maharashtra
+zarijamini,sorgum(jawar),2015,-232.0,-232.0,yewatmal,maharashtra
+zarijamini,sorgum(jawar),2016,-100.0,-100.0,yewatmal,maharashtra
+paranda,sorgum(jawar),2015,-97.59999999999991,-344.4000000000001,osmanabad,maharashtra
+paranda,sorgum(jawar),2016,-29.09090909090901,-66.5454545454545,osmanabad,maharashtra
+akole,bajri,2014,158.0,-106.0,ahmadnagar,maharashtra
+shrirampur,pigeon pea (tur),2014,-913.3333333333335,-1852.0,ahmadnagar,maharashtra
+kolhapur-laxmipuri,maize,2014,90.0,-264.33333333333326,kolhapur,maharashtra
+dudhani,bajri,2014,-144.5,-483.5,solapur,maharashtra
+dudhani,bajri,2015,-46.200000000000045,-50.0,solapur,maharashtra
+dudhani,bajri,2016,136.22222222222217,-88.55555555555566,solapur,maharashtra
+khultabad,maize,2014,-435.0,-435.0,aurangabad,maharashtra
+khultabad,maize,2015,-209.25,-209.25,aurangabad,maharashtra
+khultabad,maize,2016,-145.75,-145.75,aurangabad,maharashtra
+khamgaon,sorgum(jawar),2014,-462.5,-781.75,buldhana,maharashtra
+khamgaon,sorgum(jawar),2015,-446.72727272727275,-458.18181818181824,buldhana,maharashtra
+khamgaon,sorgum(jawar),2016,-317.0,-411.36363636363626,buldhana,maharashtra
+shrirampur,mustard,2015,-4.0,-4.0,ahmadnagar,maharashtra
+manwat,wheat(husked),2015,-22.40000000000009,-22.40000000000009,parbhani,maharashtra
+devani,sorgum(jawar),2015,-55.0,-55.0,latur,maharashtra
+devani,sorgum(jawar),2016,-249.5,-249.5,latur,maharashtra
+telhara,sorgum(jawar),2014,-491.25,-799.25,akola,maharashtra
+telhara,sorgum(jawar),2015,-399.63636363636374,-436.72727272727275,akola,maharashtra
+telhara,sorgum(jawar),2016,-379.909090909091,-575.8181818181818,akola,maharashtra
+vaijapur,maize,2014,-309.25,-488.25,aurangabad,maharashtra
+vaijapur,maize,2015,-33.0,-74.71428571428578,aurangabad,maharashtra
+vaijapur,maize,2016,79.20000000000005,-20.59999999999991,aurangabad,maharashtra
+sangrampur,sorgum(jawar),2014,-549.6666666666666,-549.6666666666666,buldhana,maharashtra
+sangrampur,sorgum(jawar),2015,-616.9,-616.9,buldhana,maharashtra
+nandurbar,bajri,2014,-190.75,-564.0,nandurbar,maharashtra
+nandurbar,bajri,2015,-184.5454545454545,-189.81818181818176,nandurbar,maharashtra
+nandurbar,bajri,2016,11.909090909090992,-203.0,nandurbar,maharashtra
+ashti (jalna),sorgum(jawar),2015,-63.33333333333326,-63.33333333333326,jalna,maharashtra
+ashti (jalna),sorgum(jawar),2016,-216.66666666666674,-216.66666666666674,jalna,maharashtra
+umarga,bajri,2014,-136.75,-336.0,osmanabad,maharashtra
+umarga,bajri,2015,-76.16666666666674,-84.5,osmanabad,maharashtra
+umarga,bajri,2016,-46.0,-75.25,osmanabad,maharashtra
+kolhapur-laxmipuri,sorgum(jawar),2014,125.0,-421.0,kolhapur,maharashtra
+kolhapur-laxmipuri,sorgum(jawar),2016,192.27272727272725,-23.36363636363626,kolhapur,maharashtra
+shrigonda,sunflower,2016,-233.5,-233.5,ahmadnagar,maharashtra
+ahmedpur,safflower,2014,-849.0,-1950.0,latur,maharashtra
+ahmedpur,safflower,2015,-946.7142857142858,-957.8571428571427,latur,maharashtra
+shahada,bajri,2014,59.66666666666674,-445.33333333333337,nandurbar,maharashtra
+shahada,bajri,2015,1.7000000000000455,-0.40000000000009095,nandurbar,maharashtra
+shahada,bajri,2016,191.20000000000005,-20.0,nandurbar,maharashtra
+khamgaon,maize,2014,-262.25,-596.25,buldhana,maharashtra
+khamgaon,maize,2015,-211.0,-224.29999999999995,buldhana,maharashtra
+khamgaon,maize,2016,-82.81818181818176,-172.18181818181824,buldhana,maharashtra
+kalvan,maize,2014,-336.0,-510.66666666666663,nasik,maharashtra
+kalvan,maize,2015,-116.66666666666674,-119.33333333333326,nasik,maharashtra
+kalvan,maize,2016,24.181818181818244,-39.09090909090901,nasik,maharashtra
+jalgaon-masawat,sorgum(jawar),2016,-400.66666666666674,-400.66666666666674,jalgaon,maharashtra
+kinwat,sorgum(jawar),2015,-512.1666666666667,-512.1666666666667,nanded,maharashtra
+kinwat,sorgum(jawar),2016,-650.0,-650.0,nanded,maharashtra
+chalisgaon,rice(paddy-hus),2015,-150.0,-150.0,jalgaon,maharashtra
+chalisgaon,rice(paddy-hus),2016,-510.0,-510.0,jalgaon,maharashtra
+telhara,maize,2016,-69.0,-69.0,akola,maharashtra
+vaijapur,sorgum(jawar),2014,-320.75,-547.75,aurangabad,maharashtra
+vaijapur,sorgum(jawar),2015,-160.0,-177.5,aurangabad,maharashtra
+vaijapur,sorgum(jawar),2016,37.90909090909099,-105.81818181818176,aurangabad,maharashtra
+himayatnagar,sorgum(jawar),2015,-548.5,-548.5,nanded,maharashtra
+himayatnagar,sorgum(jawar),2016,-400.0,-400.0,nanded,maharashtra
+anajngaon surji,pigeon pea (tur),2014,290.0,-1257.5,amaravathi,maharashtra
+yawal,wheat(husked),2015,-25.0,-25.0,jalgaon,maharashtra
+bhandara,wheat(husked),2014,-96.0,-549.3333333333334,bhandara,maharashtra
+bhandara,wheat(husked),2015,-107.83333333333326,-110.66666666666674,bhandara,maharashtra
+ahmednagar,wheat(husked),2014,121.0,-665.0,ahmadnagar,maharashtra
+purna,wheat(husked),2014,20.75,-251.0,parbhani,maharashtra
+purna,wheat(husked),2015,-72.75,-71.125,parbhani,maharashtra
+partur,bajri,2014,-50.0,-575.0,jalna,maharashtra
+partur,bajri,2015,-20.818181818181756,-69.63636363636374,jalna,maharashtra
+partur,bajri,2016,55.63636363636374,-41.90909090909099,jalna,maharashtra
+lasur station,sorgum(jawar),2014,-343.0,-787.0,aurangabad,maharashtra
+lasur station,sorgum(jawar),2015,-323.33333333333326,-341.58333333333326,aurangabad,maharashtra
+lasur station,sorgum(jawar),2016,-51.799999999999955,-205.5,aurangabad,maharashtra
+shevgaon,maize,2014,-310.0,-310.0,ahmadnagar,maharashtra
+shevgaon,maize,2015,-49.85714285714289,-49.85714285714289,ahmadnagar,maharashtra
+shevgaon,maize,2016,-109.20000000000005,-109.20000000000005,ahmadnagar,maharashtra
+umared,sorgum(jawar),2014,55.0,-95.5,nagpur,maharashtra
+umared,sorgum(jawar),2015,-79.0,-96.0,nagpur,maharashtra
+lonar,wheat(husked),2014,-29.25,-211.5,buldhana,maharashtra
+lonar,wheat(husked),2015,-52.09090909090901,-53.63636363636374,buldhana,maharashtra
+kinwat,maize,2015,-175.0,-175.0,nanded,maharashtra
+ausa,pigeon pea (tur),2014,160.25,-938.25,latur,maharashtra
+akluj,maize,2014,-116.33333333333326,-524.6666666666666,solapur,maharashtra
+akluj,maize,2016,171.0,-138.8571428571429,solapur,maharashtra
+chalisgaon,maize,2014,-263.33333333333326,-556.0,jalgaon,maharashtra
+chalisgaon,maize,2015,-149.375,-154.125,jalgaon,maharashtra
+chalisgaon,maize,2016,-77.72727272727275,-155.5454545454545,jalgaon,maharashtra
+washim,wheat(husked),2014,-8.0,-522.0,wasim,maharashtra
+washim,wheat(husked),2015,-95.08333333333326,-110.16666666666674,wasim,maharashtra
+jalna-badnapur,pigeon pea (tur),2014,-50.0,-1083.0,jalna,maharashtra
+dondaicha,sesamum,2016,-3375.0,-3375.0,dhule,maharashtra
+pusad,pigeon pea (tur),2014,251.33333333333303,-900.3333333333335,yewatmal,maharashtra
+raver,pigeon pea (tur),2014,-1151.0,-1788.5,jalgaon,maharashtra
+shegaon,wheat(husked),2014,-89.5,-578.0,buldhana,maharashtra
+shegaon,wheat(husked),2015,-203.5,-210.83333333333326,buldhana,maharashtra
+nagpur,paddy-unhusked,2014,70.0,-292.0,nagpur,maharashtra
+indapur,sunflower,2014,-750.0,-750.0,pune,maharashtra
+indapur,sunflower,2015,-816.0,-816.0,pune,maharashtra
+indapur,sunflower,2016,-714.6666666666665,-714.6666666666665,pune,maharashtra
+lasur station,maize,2014,-330.0,-496.0,aurangabad,maharashtra
+lasur station,maize,2015,-135.58333333333326,-139.83333333333326,aurangabad,maharashtra
+lasur station,maize,2016,-9.909090909090992,-68.18181818181824,aurangabad,maharashtra
+hingoli,wheat(husked),2014,3.0,-598.6666666666666,hingoli,maharashtra
+dharangaon,maize,2016,-82.16666666666674,-212.83333333333326,jalgaon,maharashtra
+sinner,bajri,2014,-158.25,-533.5,nasik,maharashtra
+sinner,bajri,2015,-90.41666666666674,-91.5,nasik,maharashtra
+sinner,bajri,2016,136.72727272727275,-96.0,nasik,maharashtra
+indapur-bhigwan,sorgum(jawar),2014,370.0,-587.0,pune,maharashtra
+indapur-bhigwan,sorgum(jawar),2015,-89.09999999999991,-128.5,pune,maharashtra
+indapur-bhigwan,sorgum(jawar),2016,-2.272727272727252,-221.36363636363626,pune,maharashtra
+shirpur,bajri,2014,-311.0,-611.75,dhule,maharashtra
+shirpur,bajri,2015,-179.18181818181824,-189.4545454545455,dhule,maharashtra
+shirpur,bajri,2016,-2.0,-205.27272727272725,dhule,maharashtra
+shrirampur,wheat(husked),2014,-58.5,-536.0,ahmadnagar,maharashtra
+shrirampur,wheat(husked),2015,-103.09090909090901,-123.18181818181824,ahmadnagar,maharashtra
+patur,wheat(husked),2014,-129.0,-681.6666666666666,akola,maharashtra
+patur,wheat(husked),2015,-158.18181818181824,-210.27272727272725,akola,maharashtra
+mantha,bajri,2014,250.0,-450.0,jalna,maharashtra
+rahuri,pigeon pea (tur),2015,-75.0,-75.0,ahmadnagar,maharashtra
+parbhani,wheat(husked),2014,13.0,-495.75,parbhani,maharashtra
+parbhani,wheat(husked),2015,-55.25,-63.16666666666674,parbhani,maharashtra
+gondiya,rice(paddy-hus),2016,-360.0,-360.0,gondiya,maharashtra
+nandgaon,maize,2014,-331.25,-331.25,nasik,maharashtra
+nandgaon,maize,2015,-2.75,-2.75,nasik,maharashtra
+nandgaon,maize,2016,-6.5,-6.5,nasik,maharashtra
+malkapur,sesamum,2016,-3435.0,-3435.0,buldhana,maharashtra
+lasalgaon,pigeon pea (tur),2014,-849.5,-1335.0,nasik,maharashtra
+malkapur,sorgum(jawar),2014,-390.75,-775.75,buldhana,maharashtra
+malkapur,sorgum(jawar),2015,-400.75,-419.58333333333326,buldhana,maharashtra
+malkapur,sorgum(jawar),2016,-282.0999999999999,-525.5,buldhana,maharashtra
+mangrulpeer,pigeon pea (tur),2014,-24.25,-1312.25,wasim,maharashtra
+paithan,sorgum(jawar),2014,33.0,-615.5,aurangabad,maharashtra
+paithan,sorgum(jawar),2015,-78.22222222222217,-56.55555555555566,aurangabad,maharashtra
+paithan,sorgum(jawar),2016,37.09090909090901,-59.818181818181756,aurangabad,maharashtra
+gangapur,bajri,2014,11.0,-482.75,aurangabad,maharashtra
+murum,pigeon pea (tur),2014,429.0,-1144.75,osmanabad,maharashtra
+amarawati,pigeon pea (tur),2014,458.0,-1239.3333333333335,amaravathi,maharashtra
+lasur station,bajri,2014,-113.66666666666674,-545.0,aurangabad,maharashtra
+lasur station,bajri,2015,-65.41666666666674,-80.66666666666674,aurangabad,maharashtra
+lasur station,bajri,2016,50.36363636363626,-33.0,aurangabad,maharashtra
+gangapur,wheat(husked),2014,73.0,-400.75,aurangabad,maharashtra
+gangapur,wheat(husked),2015,-5.818181818181756,-9.181818181818244,aurangabad,maharashtra
+indapur (nimgaon ketki),maize,2015,128.0,-128.0,pune,maharashtra
+pachora,sesamum,2015,-925.0,-925.0,jalgaon,maharashtra
+pachora,sesamum,2016,-10.0,-10.0,jalgaon,maharashtra
+ahmedpur,sunflower,2014,-1209.0,-2027.0,latur,maharashtra
+ahmedpur,sunflower,2015,-489.2857142857142,-806.5714285714284,latur,maharashtra
+ahmedpur,sunflower,2016,-454.909090909091,-779.5454545454545,latur,maharashtra
+kalamnuri,sorgum(jawar),2015,-40.83333333333326,-40.83333333333326,hingoli,maharashtra
+jintur,pigeon pea (tur),2014,-558.5,-1384.5,parbhani,maharashtra
+jamkhed,sorgum(jawar),2014,252.66666666666674,-470.33333333333326,ahmadnagar,maharashtra
+jamkhed,sorgum(jawar),2016,114.4545454545455,-165.0,ahmadnagar,maharashtra
+ramtek,paddy-unhusked,2016,371.33333333333326,-7.6666666666667425,nagpur,maharashtra
+kalamb (os),gr.nut kernels,2014,-1100.0,-1100.0,osmanabad,maharashtra
+solapur,rice(paddy-hus),2014,740.5,-7.0,solapur,maharashtra
+murum,bajri,2014,119.25,-79.75,osmanabad,maharashtra
+satana,wheat(husked),2014,67.75,-423.75,nasik,maharashtra
+satana,wheat(husked),2015,-35.55555555555566,-30.444444444444343,nasik,maharashtra
+nandura,sesamum,2016,238.0,-355.818181818182,buldhana,maharashtra
+tiroda,paddy-unhusked,2014,363.75,-266.5,gondiya,maharashtra
+tiroda,paddy-unhusked,2016,165.4545454545455,-47.90909090909099,gondiya,maharashtra
+risod,pigeon pea (tur),2014,165.0,-1447.0,wasim,maharashtra
+gevrai,wheat(husked),2014,-17.75,-380.5,beed,maharashtra
+gevrai,wheat(husked),2015,-63.58333333333326,-67.83333333333326,beed,maharashtra
+aurangabad,maize,2014,-438.0,-438.0,aurangabad,maharashtra
+aurangabad,maize,2015,-225.0,-225.0,aurangabad,maharashtra
+osmanabad,wheat(husked),2014,-56.0,-397.66666666666674,osmanabad,maharashtra
+chikhali,mustard,2015,-200.0,-200.0,buldhana,maharashtra
+shrigonda,sorgum(jawar),2015,21.0,-788.0,ahmadnagar,maharashtra
+shrigonda,sorgum(jawar),2016,41.25,-70.25,ahmadnagar,maharashtra
+shevgaon,wheat(husked),2014,5.75,-403.5,ahmadnagar,maharashtra
+shevgaon,wheat(husked),2015,-87.33333333333326,-84.08333333333326,ahmadnagar,maharashtra
+ramtek,pigeon pea (tur),2014,-320.6666666666665,-968.6666666666665,nagpur,maharashtra
+fulambri,wheat(husked),2015,-125.0,-125.0,aurangabad,maharashtra
+jalna,mustard,2014,525.0,-645.0,jalna,maharashtra
+umarkhed-danki,wheat(husked),2014,-37.5,-621.0,yewatmal,maharashtra
+umarkhed-danki,wheat(husked),2015,-101.66666666666674,-162.25,yewatmal,maharashtra
+majalgaon,bajri,2014,-118.25,-510.25,beed,maharashtra
+majalgaon,bajri,2015,18.181818181818244,-10.545454545454504,beed,maharashtra
+majalgaon,bajri,2016,46.181818181818244,-147.090909090909,beed,maharashtra
+nandgaon,pigeon pea (tur),2014,-837.0,-837.0,nasik,maharashtra
+buldhana,wheat(husked),2014,0.0,-346.0,buldhana,maharashtra
+buldhana,wheat(husked),2015,-175.29999999999995,-186.70000000000005,buldhana,maharashtra
+dhamangaon-rly,wheat(husked),2014,-45.75,-556.75,amaravathi,maharashtra
+dhamangaon-rly,wheat(husked),2015,-224.0,-188.875,amaravathi,maharashtra
+murum,maize,2014,65.0,-477.0,osmanabad,maharashtra
+taloda,cotton,2015,-22.800000000000182,-22.800000000000182,nandurbar,maharashtra
+purna,mustard,2015,115.0,-692.5,parbhani,maharashtra
+ner parasopant,wheat(husked),2015,-209.83333333333326,-209.83333333333326,yewatmal,maharashtra
+armori,paddy-unhusked,2014,365.0,-336.0,gadchiroli,maharashtra
+yeola,maize,2014,-264.5,-414.5,nasik,maharashtra
+yeola,maize,2015,-54.0,-60.0,nasik,maharashtra
+yeola,maize,2016,87.33333333333326,-1.0,nasik,maharashtra
+rahata,maize,2014,-141.33333333333326,-632.3333333333334,ahmadnagar,maharashtra
+rahata,maize,2015,-103.4545454545455,-154.0,ahmadnagar,maharashtra
+rahata,maize,2016,29.181818181818244,-127.4545454545455,ahmadnagar,maharashtra
+kalmeshwar,sorgum(jawar),2015,-290.0,-290.0,nagpur,maharashtra
+kada,wheat(husked),2014,-1.5,-213.25,beed,maharashtra
+amalner,sesamum,2014,5200.0,-1275.0,jalgaon,maharashtra
+amalner,sesamum,2015,-1200.0,-113.0,jalgaon,maharashtra
+karmala,sorgum(jawar),2014,63.5,-672.0,solapur,maharashtra
+karmala,sorgum(jawar),2015,17.57142857142867,-113.42857142857133,solapur,maharashtra
+karmala,sorgum(jawar),2016,0.4545454545454959,-152.909090909091,solapur,maharashtra
+sakri,sorgum(jawar),2014,-439.0,-815.0,dhule,maharashtra
+sakri,sorgum(jawar),2015,-455.5,-456.0,dhule,maharashtra
+sakri,sorgum(jawar),2016,-433.5,-531.0,dhule,maharashtra
+bhokar,sorgum(jawar),2014,-290.25,-479.75,nanded,maharashtra
+bhokar,sorgum(jawar),2015,-347.5,-345.0,nanded,maharashtra
+bhokar,sorgum(jawar),2016,-261.4545454545455,-342.63636363636374,nanded,maharashtra
+kurdwadi-modnimb,bajri,2015,76.0,-600.0,solapur,maharashtra
+dondaicha-sindkheda,bajri,2015,-35.0,-35.0,dhule,maharashtra
+dondaicha-sindkheda,bajri,2016,-8.909090909090992,-8.909090909090992,dhule,maharashtra
+dudhani,pigeon pea (tur),2014,403.0,-752.0,solapur,maharashtra
+bhiwapur,cotton,2014,-56.666666666666515,-1420.3333333333335,nagpur,maharashtra
+bhiwapur,cotton,2016,449.66666666666697,-184.0,nagpur,maharashtra
+bhusaval,pigeon pea (tur),2015,-462.5,-462.5,jalgaon,maharashtra
+barshi,pigeon pea (tur),2014,-267.6666666666665,-1593.3333333333335,solapur,maharashtra
+amarawati,sorgum(jawar),2014,-69.0,-664.0,amaravathi,maharashtra
+amarawati,sorgum(jawar),2015,-65.08333333333326,-130.0,amaravathi,maharashtra
+amarawati,sorgum(jawar),2016,29.09999999999991,-208.4000000000001,amaravathi,maharashtra
+nagpur,maize,2015,-62.5,-62.5,nagpur,maharashtra
+nagpur,maize,2016,-82.5,-82.5,nagpur,maharashtra
+malegaon,bajri,2014,1.5,-468.0,nasik,maharashtra
+malegaon,bajri,2015,3.0,-12.916666666666742,nasik,maharashtra
+malegaon,bajri,2016,125.33333333333326,-98.22222222222217,nasik,maharashtra
+dhule,wheat(husked),2014,-151.25,-617.5,dhule,maharashtra
+dhule,wheat(husked),2015,-202.33333333333326,-214.91666666666674,dhule,maharashtra
+gangapur,pigeon pea (tur),2014,23.0,-1275.0,aurangabad,maharashtra
+gondpimpri,pigeon pea (tur),2014,-20.0,-20.0,chandrapur,maharashtra
+katol,pigeon pea (tur),2014,25.0,-1527.0,nagpur,maharashtra
+jalna-badnapur,maize,2014,-460.0,-460.0,jalna,maharashtra
+jalna-badnapur,maize,2015,-98.0,-98.0,jalna,maharashtra
+jalna-badnapur,maize,2016,-293.25,-293.25,jalna,maharashtra
+karmala,sunflower,2014,-789.0,-789.0,solapur,maharashtra
+karmala,sunflower,2015,-604.0,-604.0,solapur,maharashtra
+karmala,sunflower,2016,-1227.0,-1227.0,solapur,maharashtra
+sakri,sunflower,2014,-1999.0,-1999.0,dhule,maharashtra
+sakri,sunflower,2015,-1633.5,-1633.5,dhule,maharashtra
+sakri,sunflower,2016,-728.0,-728.0,dhule,maharashtra
+karmala,maize,2014,-229.0,-229.0,solapur,maharashtra
+karmala,maize,2015,-15.0,-15.0,solapur,maharashtra
+nilanga,sunflower,2015,-421.5,-421.5,latur,maharashtra
+nagpur,sorgum(jawar),2014,50.0,-350.0,nagpur,maharashtra
+nagpur,sorgum(jawar),2015,-77.20000000000005,-72.29999999999995,nagpur,maharashtra
+nagpur,sorgum(jawar),2016,-110.0,-110.0,nagpur,maharashtra
+kada,maize,2014,-137.0,-584.5,beed,maharashtra
+kada,maize,2015,-29.454545454545496,-74.27272727272725,beed,maharashtra
+kada,maize,2016,-27.555555555555657,-197.22222222222217,beed,maharashtra
+umarga,maize,2014,-124.0,-569.3333333333334,osmanabad,maharashtra
+umarga,maize,2015,4.3333333333332575,-36.111111111111086,osmanabad,maharashtra
+umarga,maize,2016,-73.25,-261.75,osmanabad,maharashtra
+mohol,maize,2014,-59.25,-465.75,solapur,maharashtra
+mohol,maize,2015,3.2000000000000455,-18.5,solapur,maharashtra
+shevgaon-bodhegaon,pigeon pea (tur),2014,100.0,-1477.0,ahmadnagar,maharashtra
+vaduj,sorgum(jawar),2014,607.75,-128.25,satara,maharashtra
+sinner,maize,2014,-211.5,-563.75,nasik,maharashtra
+sinner,maize,2015,-77.25,-84.58333333333326,nasik,maharashtra
+sinner,maize,2016,67.88888888888891,-55.77777777777783,nasik,maharashtra
+morshi,sorgum(jawar),2014,-168.75,-662.75,amaravathi,maharashtra
+morshi,sorgum(jawar),2015,-356.5,-357.08333333333326,amaravathi,maharashtra
+morshi,sorgum(jawar),2016,-305.18181818181824,-524.5454545454545,amaravathi,maharashtra
+osmanabad,maize,2015,-190.0,-190.0,osmanabad,maharashtra
+sinner,mustard,2015,-199.0,-199.0,nasik,maharashtra
+buldhana-dhad,maize,2015,-141.66666666666674,-141.66666666666674,buldhana,maharashtra
+buldhana-dhad,maize,2016,-142.0,-142.0,buldhana,maharashtra
+soygaon,maize,2015,-182.5,-182.5,aurangabad,maharashtra
+soygaon,maize,2016,-56.75,-56.75,aurangabad,maharashtra
+ashti (jalna),maize,2015,-125.0,-125.0,jalna,maharashtra
+kada (ashti),wheat(husked),2014,250.0,-367.0,beed,maharashtra
+kada (ashti),wheat(husked),2015,-49.5,62.5,beed,maharashtra
+vani,pigeon pea (tur),2014,287.0,-1087.5,yewatmal,maharashtra
+vai,sorgum(jawar),2016,-816.6666666666666,-816.6666666666666,satara,maharashtra
+atpadi,sorgum(jawar),2014,150.0,-384.5,sangli,maharashtra
+atpadi,sorgum(jawar),2016,147.16666666666674,-93.16666666666674,sangli,maharashtra
+digras,pigeon pea (tur),2014,143.5,-1657.0,yewatmal,maharashtra
+purna,sorgum(jawar),2014,-487.0,-683.25,parbhani,maharashtra
+purna,sorgum(jawar),2015,-399.7777777777778,-402.44444444444434,parbhani,maharashtra
+purna,sorgum(jawar),2016,-232.0,-311.0,parbhani,maharashtra
+kej,sunflower,2016,-265.5,-265.5,beed,maharashtra
+shrirampur,sunflower,2015,-934.0,-934.0,ahmadnagar,maharashtra
+khamgaon,sesamum,2016,159.33333333333303,-432.66666666666697,buldhana,maharashtra
+achalpur,sorgum(jawar),2014,-58.66666666666674,-510.33333333333326,amaravathi,maharashtra
+achalpur,sorgum(jawar),2015,-190.5,-190.5,amaravathi,maharashtra
+achalpur,sorgum(jawar),2016,-206.29999999999995,-328.79999999999995,amaravathi,maharashtra
+kannad,sorgum(jawar),2014,-184.75,-710.75,aurangabad,maharashtra
+kannad,sorgum(jawar),2015,-205.55555555555566,-214.8888888888889,aurangabad,maharashtra
+kannad,sorgum(jawar),2016,-76.63636363636374,-275.27272727272725,aurangabad,maharashtra
+lasalgaon,sunflower,2014,-1024.0,-1621.0,nasik,maharashtra
+lasalgaon,sunflower,2015,-1019.1999999999998,-981.0,nasik,maharashtra
+lasalgaon,sunflower,2016,-799.3333333333335,-1586.0,nasik,maharashtra
+loha,sorgum(jawar),2014,-266.66666666666674,-490.0,nanded,maharashtra
+loha,sorgum(jawar),2015,-297.1111111111111,-306.1111111111111,nanded,maharashtra
+loha,sorgum(jawar),2016,-251.875,-230.375,nanded,maharashtra
+indapur,wheat(husked),2015,-40.14285714285711,-198.42857142857133,pune,maharashtra
+umarga,sunflower,2014,-734.75,-1819.0,osmanabad,maharashtra
+umarga,sunflower,2015,-636.1666666666665,-693.4166666666665,osmanabad,maharashtra
+umarga,sunflower,2016,-673.0,-1147.875,osmanabad,maharashtra
+kada,safflower,2015,-949.0,-949.0,beed,maharashtra
+parbhani,pigeon pea (tur),2014,108.25,-1345.25,parbhani,maharashtra
+barshi-vairag,sunflower,2014,-800.0,-800.0,solapur,maharashtra
+barshi-vairag,sunflower,2015,-533.0,-533.0,solapur,maharashtra
+barshi-vairag,sunflower,2016,-938.5,-938.5,solapur,maharashtra
+hinganghat,sorgum(jawar),2015,-407.0,-999.0,wardha,maharashtra
+hinganghat,sorgum(jawar),2016,-378.75,-369.25,wardha,maharashtra
+sengaon,sorgum(jawar),2015,-56.40000000000009,-56.40000000000009,hingoli,maharashtra
+sengaon,sorgum(jawar),2016,-50.0,-50.0,hingoli,maharashtra
+indapur-bhigwan,rice(paddy-hus),2014,12.5,-567.5,pune,maharashtra
+indapur-bhigwan,rice(paddy-hus),2015,-25.0,-86.29999999999995,pune,maharashtra
+indapur-bhigwan,rice(paddy-hus),2016,136.0,-82.27272727272725,pune,maharashtra
+pavani,paddy-unhusked,2014,647.25,-20.0,bhandara,maharashtra
+pune,bajri,2014,498.33333333333326,-183.66666666666674,pune,maharashtra
+shahada,wheat(husked),2014,33.66666666666674,-520.3333333333334,nandurbar,maharashtra
+shahada,wheat(husked),2015,-73.83333333333326,-94.41666666666674,nandurbar,maharashtra
+bhusaval,wheat(husked),2014,-161.75,-517.0,jalgaon,maharashtra
+bhusaval,wheat(husked),2015,-223.0,-222.83333333333326,jalgaon,maharashtra
+rahuri-vambori,bajri,2014,95.5,-71.25,ahmadnagar,maharashtra
+kurdwadi,maize,2014,-62.0,-556.6666666666666,solapur,maharashtra
+kurdwadi,maize,2015,3.0,-21.25,solapur,maharashtra
+kalamb (os),pigeon pea (tur),2014,-770.0,-1478.0,osmanabad,maharashtra
+nandgaon khandeshwar,sorgum(jawar),2016,-566.3333333333333,-566.3333333333333,amaravathi,maharashtra
+sillod-bharadi,safflower,2014,-780.0,-1915.0,aurangabad,maharashtra
+sillod-bharadi,safflower,2015,-1129.0,-1080.0,aurangabad,maharashtra
+anajngaon surji,sunflower,2014,-1339.5,-1655.5,amaravathi,maharashtra
+anajngaon surji,sunflower,2015,-1012.5,-1023.5,amaravathi,maharashtra
+anajngaon surji,sunflower,2016,-1050.0,-1975.0,amaravathi,maharashtra
+sangali,wheat(husked),2014,199.5,-365.0,sangli,maharashtra
+kalvan,sorgum(jawar),2016,-261.0,-261.0,nasik,maharashtra
+satana,pigeon pea (tur),2014,-569.0,-757.0,nasik,maharashtra
+sillod-bharadi,sorgum(jawar),2014,-330.0,-330.0,aurangabad,maharashtra
+sillod-bharadi,sorgum(jawar),2015,-552.5,-552.5,aurangabad,maharashtra
+sillod-bharadi,sorgum(jawar),2016,-334.66666666666674,-334.66666666666674,aurangabad,maharashtra
+karanja,wheat(husked),2014,-86.75,-568.5,wasim,maharashtra
+karanja,wheat(husked),2015,-155.0,-159.25,wasim,maharashtra
+jalgaon jamod-aasalgaon,sorgum(jawar),2014,-462.75,-779.0,buldhana,maharashtra
+jalgaon jamod-aasalgaon,sorgum(jawar),2015,-467.66666666666674,-477.58333333333326,buldhana,maharashtra
+jalgaon jamod-aasalgaon,sorgum(jawar),2016,-448.1111111111111,-561.1111111111111,buldhana,maharashtra
+gevrai,pigeon pea (tur),2014,-101.25,-1455.5,beed,maharashtra
+gangapur,maize,2014,-286.75,-433.25,aurangabad,maharashtra
+gangapur,maize,2015,-120.81818181818176,-131.0,aurangabad,maharashtra
+solapur,sorgum(jawar),2014,230.0,-470.25,solapur,maharashtra
+nandura,wheat(husked),2014,-51.25,-565.0,buldhana,maharashtra
+nandura,wheat(husked),2015,-165.63636363636374,-179.5454545454545,buldhana,maharashtra
+tasgaon,maize,2014,-64.0,-401.33333333333337,sangli,maharashtra
+tasgaon,maize,2015,10.375,-1.125,sangli,maharashtra
+tasgaon,maize,2016,35.181818181818244,-74.27272727272725,sangli,maharashtra
+wardha,cotton,2014,195.5,-1427.0,wardha,maharashtra
+indapur-bhigwan,safflower,2014,-550.0,-1800.0,pune,maharashtra
+indapur-bhigwan,safflower,2015,-950.0,-966.6666666666665,pune,maharashtra
+sinner,rice(paddy-hus),2014,-86.5,-199.5,nasik,maharashtra
+daryapur,safflower,2015,-1044.0,-1044.0,amaravathi,maharashtra
+ambad(vadi godri),wheat(husked),2014,5.0,-534.5,jalna,maharashtra
+ambad(vadi godri),wheat(husked),2015,-8.571428571428669,-85.71428571428578,jalna,maharashtra
+baramati,sorgum(jawar),2014,194.0,-317.33333333333326,pune,maharashtra
+baramati,sorgum(jawar),2015,1.0,-0.7777777777778283,pune,maharashtra
+baramati,sorgum(jawar),2016,-19.90909090909099,-147.5454545454545,pune,maharashtra
+ralegaon,cotton,2014,125.0,-1309.3333333333335,yewatmal,maharashtra
+ralegaon,cotton,2016,525.1428571428569,-17.42857142857156,yewatmal,maharashtra
+chikhali,maize,2014,-273.33333333333326,-574.6666666666666,buldhana,maharashtra
+chikhali,maize,2015,-257.2222222222222,-264.1111111111111,buldhana,maharashtra
+chikhali,maize,2016,-177.72727272727275,-268.090909090909,buldhana,maharashtra
+beed,maize,2014,49.33333333333326,-408.0,beed,maharashtra
+ner parasopant,pigeon pea (tur),2014,226.0,-1354.0,yewatmal,maharashtra
+sillod-bharadi,maize,2014,-160.0,-621.0,aurangabad,maharashtra
+sillod-bharadi,maize,2015,-100.0,-237.33333333333326,aurangabad,maharashtra
+sillod-bharadi,maize,2016,57.181818181818244,-49.818181818181756,aurangabad,maharashtra
+jalgaon jamod-aasalgaon,sunflower,2015,-1200.0,-1200.0,buldhana,maharashtra
+varud-rajura bazar,sorgum(jawar),2014,-212.5,-818.5,amaravathi,maharashtra
+varud-rajura bazar,sorgum(jawar),2015,-357.91666666666674,-405.16666666666674,amaravathi,maharashtra
+varud-rajura bazar,sorgum(jawar),2016,-189.57142857142867,-438.0,amaravathi,maharashtra
+daryapur,sorgum(jawar),2014,-337.5,-564.5,amaravathi,maharashtra
+daryapur,sorgum(jawar),2015,-373.42857142857133,-366.7142857142858,amaravathi,maharashtra
+daryapur,sorgum(jawar),2016,-234.57142857142867,-312.2857142857142,amaravathi,maharashtra
+manmad,bajri,2014,-60.5,-493.75,nasik,maharashtra
+manmad,bajri,2015,6.5,-15.333333333333258,nasik,maharashtra
+manmad,bajri,2016,202.55555555555566,-42.66666666666674,nasik,maharashtra
+naigaon,wheat(husked),2014,-75.0,-75.0,nanded,maharashtra
+naigaon,wheat(husked),2015,-50.0,-50.0,nanded,maharashtra
+tasgaon,sorgum(jawar),2014,-82.5,-589.0,sangli,maharashtra
+tasgaon,sorgum(jawar),2015,-98.5,-150.0,sangli,maharashtra
+tasgaon,sorgum(jawar),2016,46.90909090909099,-100.72727272727275,sangli,maharashtra
+manmad,wheat(husked),2014,39.75,-319.75,nasik,maharashtra
+manmad,wheat(husked),2015,-44.75,-48.08333333333326,nasik,maharashtra
+chikhali,sorgum(jawar),2014,-408.33333333333326,-812.0,buldhana,maharashtra
+chikhali,sorgum(jawar),2015,-437.33333333333326,-472.44444444444434,buldhana,maharashtra
+chikhali,sorgum(jawar),2016,-401.27272727272725,-564.8181818181818,buldhana,maharashtra
+baramati,maize,2014,-121.0,-581.3333333333334,pune,maharashtra
+baramati,maize,2015,-16.181818181818244,-40.181818181818244,pune,maharashtra
+baramati,maize,2016,68.4545454545455,-21.272727272727252,pune,maharashtra
+udgir,safflower,2015,-800.0,-1634.0,latur,maharashtra
+dudhani,wheat(husked),2014,-109.75,-581.5,solapur,maharashtra
+dudhani,wheat(husked),2015,-97.4545454545455,-112.36363636363626,solapur,maharashtra
+arjuni morgaon,paddy-unhusked,2014,343.75,-165.0,gondiya,maharashtra
+pandharpur,sorgum(jawar),2014,484.66666666666674,-410.33333333333326,solapur,maharashtra
+pandharpur,sorgum(jawar),2016,222.18181818181824,-42.0,solapur,maharashtra
+lasur station,safflower,2015,-1038.0,-1038.0,aurangabad,maharashtra
+jintur-bori,wheat(husked),2014,-14.0,-198.75,parbhani,maharashtra
+arvi,wheat(husked),2015,-375.0,-375.0,wardha,maharashtra
+sailu,sorgum(jawar),2014,-345.0,-800.5,parbhani,maharashtra
+sailu,sorgum(jawar),2015,-357.66666666666674,-371.91666666666674,parbhani,maharashtra
+sailu,sorgum(jawar),2016,-41.33333333333326,-324.0,parbhani,maharashtra
+aurangabad,sorgum(jawar),2015,-40.0,-40.0,aurangabad,maharashtra
+aurangabad,sorgum(jawar),2016,-50.0,-50.0,aurangabad,maharashtra
+umarkhed,wheat(husked),2014,-8.25,-561.75,yewatmal,maharashtra
+umarkhed,wheat(husked),2015,-97.72727272727275,-124.63636363636374,yewatmal,maharashtra
+indapur-bhigwan,maize,2014,-53.5,-480.0,pune,maharashtra
+ahmednagar,sorgum(jawar),2014,141.0,-491.5,ahmadnagar,maharashtra
+ahmednagar,sorgum(jawar),2016,14.0,-30.444444444444343,ahmadnagar,maharashtra
+shegaon,safflower,2015,-816.6666666666665,-816.6666666666665,buldhana,maharashtra
+purna,pigeon pea (tur),2014,-150.0,-2013.0,parbhani,maharashtra
+jalna,maize,2014,-327.0,-457.75,jalna,maharashtra
+jalna,maize,2015,-147.41666666666674,-154.91666666666674,jalna,maharashtra
+jalna,maize,2016,6.7999999999999545,-67.59999999999991,jalna,maharashtra
+umarga,safflower,2014,-680.5,-1160.75,osmanabad,maharashtra
+umarga,safflower,2015,-793.4000000000001,-815.5,osmanabad,maharashtra
+tuljapur,safflower,2015,-541.0,-541.0,osmanabad,maharashtra
+mandhal,wheat(husked),2014,19.25,-497.25,nagpur,maharashtra
+mandhal,wheat(husked),2015,-65.09090909090901,-75.36363636363626,nagpur,maharashtra
+anajngaon surji,wheat(husked),2014,-45.0,-527.75,amaravathi,maharashtra
+anajngaon surji,wheat(husked),2015,-150.75,-176.16666666666674,amaravathi,maharashtra
+malkapur,maize,2014,-361.33333333333337,-530.6666666666666,buldhana,maharashtra
+malkapur,maize,2015,-182.72727272727275,-185.5454545454545,buldhana,maharashtra
+malkapur,maize,2016,-64.5454545454545,-132.81818181818176,buldhana,maharashtra
+tuljapur,sunflower,2015,-54.5,-54.5,osmanabad,maharashtra
+vani,cotton,2014,-32.333333333333485,-1089.0,yewatmal,maharashtra
+vani,cotton,2016,339.0,-321.5,yewatmal,maharashtra
+loha,safflower,2014,-875.0,-875.0,nanded,maharashtra
+ashti (jalna),bajri,2015,80.33333333333326,-71.66666666666674,jalna,maharashtra
+ashti (jalna),bajri,2016,-19.333333333333258,-174.33333333333326,jalna,maharashtra
+alibag,paddy-unhusked,2015,80.0,-237.33333333333326,raigad,maharashtra
+alibag,paddy-unhusked,2016,7.727272727272748,-88.90909090909099,raigad,maharashtra
+khamgaon,sunflower,2014,-1076.0,-1550.3333333333335,buldhana,maharashtra
+khamgaon,sunflower,2015,-756.4000000000001,-758.5,buldhana,maharashtra
+khamgaon,sunflower,2016,-729.2222222222222,-931.3333333333335,buldhana,maharashtra
+shirur,sorgum(jawar),2014,-3.5,-577.25,pune,maharashtra
+shirur,sorgum(jawar),2015,-182.33333333333326,-189.5,pune,maharashtra
+shirur,sorgum(jawar),2016,-72.81818181818176,-324.4545454545455,pune,maharashtra
+jawala-bajar,sorgum(jawar),2016,-157.5,-157.5,hingoli,maharashtra
+raver,wheat(husked),2014,-135.0,-495.0,jalgaon,maharashtra
+raver,wheat(husked),2015,-246.0,-247.33333333333326,jalgaon,maharashtra
+sailu,wheat(husked),2014,42.0,-484.25,parbhani,maharashtra
+sailu,wheat(husked),2015,-4.545454545454504,-33.72727272727275,parbhani,maharashtra
+rahata,sorgum(jawar),2014,-240.25,-732.5,ahmadnagar,maharashtra
+rahata,sorgum(jawar),2015,-386.5454545454545,-385.72727272727275,ahmadnagar,maharashtra
+rahata,sorgum(jawar),2016,-248.5454545454545,-469.18181818181824,ahmadnagar,maharashtra
+phaltan,wheat(husked),2014,105.0,-184.25,satara,maharashtra
+phaltan,wheat(husked),2015,-35.700000000000045,-34.5,satara,maharashtra
+ramtek,mustard,2015,-516.6666666666665,-516.6666666666665,nagpur,maharashtra
+digras,wheat(husked),2014,-26.25,-405.0,yewatmal,maharashtra
+digras,wheat(husked),2015,-21.666666666666742,-30.083333333333258,yewatmal,maharashtra
