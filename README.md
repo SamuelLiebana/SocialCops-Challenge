@@ -28,18 +28,18 @@ The notebooks should be run in the following order:
 
 The scripts should be run in the following order:
 
-* Outlier_Elimination.py  
+* oulier_detection_and_filtering.py  
   * outputs clean_monthly_data.csv (CSV file containing filtered data without outliers)
 
-* Seasonality Detection.py 
+* seasonal_decomposition.py 
   * outputs seasonality_type.csv (CSV file containing the appropriate seasonality model for the different APMC time series)
   * outputs deseasonalised_data.csv (CSV file containting the deseasonalised time series for the different APMCs)
 
-* Comparing MSP to Minimum Monthly Price.py 
+* MSP_vs_monthly_min_price.py 
   * outputs msp_comparison.csv (CSV file with the mean difference between the minimum monthly price and the MSP for APMC with MSP values) 
   * outputs msp_too_high.csv (CSV file listing AMPCs for which the MSP value is too high)
   
-* High Price Fluctuation.py
+* high_price_fluctuation.py
   * outputs flagging_high_fluctuation.csv (CSV file listing the APMCs with the top 5% price fluctuations)
   
   
