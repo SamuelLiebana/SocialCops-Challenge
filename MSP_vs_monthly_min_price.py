@@ -150,20 +150,36 @@ for month in sorted(months):
     x2.append(APMC_trend_data['maharashtra']['mumbai']['mumbai']['split black gram'][2016][month])
 
         
-plt.figure(1)
-plt.plot(x1)
-plt.axhline(y= msprice['split black gram'][2016] , color='r', linestyle='-')
-plt.title('Minimum Price (raw) compared to MSP: ALWAYS ABOVE')
-plt.xlabel('Months since January 2016')
-plt.ylabel('Price')
+#plot interactive figures where the MSP can be changed by the government 
+#to ensure that it is always below the minimum market price
+ 
+def plot_func1(correction1):
+    plt.figure(1)
+    plt.plot(x1)
+    plt.axhline(y= msprice['split black gram'][2016] + correction1 , color='r', linestyle='-')
+    plt.title('Minimum Price (raw) compared to MSP: ALWAYS ABOVE')
+    plt.xlabel('Months since January 2016')
+    plt.ylabel('Price')
+
+interact(plot_func1, correction1 = widgets.FloatSlider(value=0,
+                                               min=-max(x1),
+                                               max=max(x1),
+                                               step=2*max(x1)/1000))
 
 
-plt.figure(2)
-plt.plot(x2)
-plt.axhline(y= msprice['split black gram'][2016], color='r', linestyle='-')
-plt.title('Minimum Price (trend) compared to MSP: ALWAYS ABOVE')
-plt.xlabel('Months since January 2016')
-plt.ylabel('Price')
+def plot_func2(correction2):
+    plt.figure(2)
+    plt.plot(x2)
+    plt.axhline(y= msprice['split black gram'][2016] + correction2, color='r', linestyle='-')
+    plt.title('Minimum Price (trend) compared to MSP: ALWAYS ABOVE')
+    plt.xlabel('Months since January 2016')
+    plt.ylabel('Price')
+    
+
+interact(plot_func2, correction2 = widgets.FloatSlider(value=0,
+                                               min=-max(x2),
+                                               max=max(x2),
+                                               step=2*max(x2)/1000))
 
 
 #plotting time series to show the MSP with respect to the minimum price
@@ -184,18 +200,33 @@ for month in sorted(months):
     y2.append(APMC_trend_data['maharashtra']['jalna']['bhokardan']['maize'][2016][month])
 
         
-plt.figure(3)
-plt.plot(y1)
-plt.axhline(y= msprice['maize'][2016] , color='r', linestyle='-')
-plt.title('Minimum Price (raw) compared to MSP: CROSSING')
-plt.xlabel('Months since January 2016')
-plt.ylabel('Price')
+#plot interactive figures where the MSP can be changed by the government 
+#to ensure that it is always below the minimum market price
+
+def plot_func3(correction3):
+    plt.figure(3)
+    plt.plot(y1)
+    plt.axhline(y= msprice['maize'][2016] +correction3, color='r', linestyle='-')
+    plt.title('Minimum Price (raw) compared to MSP: CROSSING')
+    plt.xlabel('Months since January 2016')
+    plt.ylabel('Price')
+
+interact(plot_func3, correction3 = widgets.FloatSlider(value=0,
+                                               min=-max(y1),
+                                               max=max(y1),
+                                               step=2*max(y1)/1000))
 
 
-plt.figure(4)
-plt.plot(y2)
-plt.axhline(y= msprice['maize'][2016] , color='r', linestyle='-')
-plt.title('Minimum Price (trend) compared to MSP: CROSSING')
-plt.xlabel('Months since January 2016')
-plt.ylabel('Price')
+def plot_func4(correction4):
+    plt.figure(4)
+    plt.plot(y2)
+    plt.axhline(y= msprice['maize'][2016] + correction4 , color='r', linestyle='-')
+    plt.title('Minimum Price (trend) compared to MSP: CROSSING')
+    plt.xlabel('Months since January 2016')
+    plt.ylabel('Price')
+    
+interact(plot_func4, correction4 = widgets.FloatSlider(value=0,
+                                               min=-max(y2),
+                                               max=max(y2),
+                                               step=2*max(y2)/1000))
 
