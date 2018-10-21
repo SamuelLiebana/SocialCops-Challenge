@@ -45,4 +45,4 @@ The scripts should be run in the following order:
   
   
   
-  Stay tuned for the in-depth documentation!
+  Stay tuned for the in-depth documentation! I will all be in the Wiki!
