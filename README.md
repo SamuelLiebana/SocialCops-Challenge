@@ -4,7 +4,7 @@ Repository containing the scripts for Challenge 1 of the Technical Round of the 
 To run the analyses, you can choose to use either the Jupyter notebooks or Python scripts:
 (N.B CMO_MSP_Mandi.csv and Monthly_data_cmo.csv should both be placed in the same folder as the notebooks and scripts)
 
-# Jupyter Notebooks (preferred)#
+# Jupyter Notebooks (preferred) #
 
 The instructions on how to run the individual cells are stated in the notebook. 
 
