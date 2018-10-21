@@ -129,8 +129,36 @@ with open('msp_comparison.csv', mode='w', newline='') as clean_data:
             
             #write the data follwowing the structure dictated by the titles in the first row
             clean_data_writer.writerow([dist_name_prod[1], dist_name_prod[2], year, APMC_average_difference_raw['maharashtra'][dist_name_prod[0]][dist_name_prod[1]][dist_name_prod[2]][year], APMC_average_difference_trend['maharashtra'][dist_name_prod[0]][dist_name_prod[1]][dist_name_prod[2]][year], dist_name_prod[0], 'maharashtra'])
+
+#write the negative mean differences to a new csv file named 'msp_too_high.csv' 
+
+with open('msp_too_high.csv', mode='w', newline='') as high_data:
+    
+    high_data_writer = csv.writer(high_data, delimiter=',', quotechar='"', quoting=csv.QUOTE_NONE)
+    
+    #first row contains the titles of the columns
+    high_data_writer.writerow(['APMC', 'Commodity','year','Average Difference Raw','Average Difference Deseasonalised','district_name', 'state_name'])
+    
+    #iterate over commodities and years
+    for dist_name_prod in APMC_district_name_product:
+        
+        years = list(APMC_raw_data['maharashtra'][dist_name_prod[0]][dist_name_prod[1]][dist_name_prod[2]].keys())
+        
+        for year in sorted(years):
+            
+            #only if we have MSP values for this APMC
+            if APMC_average_difference_raw['maharashtra'][dist_name_prod[0]][dist_name_prod[1]][dist_name_prod[2]][year] != 'NO MSP':
+                
+                #only if the MSP is too high
+                if APMC_average_difference_raw['maharashtra'][dist_name_prod[0]][dist_name_prod[1]][dist_name_prod[2]][year] <0 or APMC_average_difference_trend['maharashtra'][dist_name_prod[0]][dist_name_prod[1]][dist_name_prod[2]][year]<0:
+
+                    #write the data follwowing the structure dictated by the titles in the first row
+                    high_data_writer.writerow([dist_name_prod[1], dist_name_prod[2], year, APMC_average_difference_raw['maharashtra'][dist_name_prod[0]][dist_name_prod[1]][dist_name_prod[2]][year], APMC_average_difference_trend['maharashtra'][dist_name_prod[0]][dist_name_prod[1]][dist_name_prod[2]][year], dist_name_prod[0], 'maharashtra'])
+
             
             
+        
+        
 #plotting time series to show the MSP with respect to the minimum price
 
 
